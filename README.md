@@ -1,2 +1,3 @@
 # imzodev-images
-Public image hosting for imzodev
+
+Public image CDN for imzodev social posts.
