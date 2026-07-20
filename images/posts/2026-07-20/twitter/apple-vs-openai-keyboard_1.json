@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Apple sues OpenAI for stealing hardware secrets while OpenAI ships 30 Codex keyboard the same week",
+  "slug": "apple-vs-openai-keyboard",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06ad6c3b8e711b1a61ec03d83f4fbbc8",
+  "prompt": "A polished aluminum device slab and a backlit mechanical keyboard suspended mid-collision against a deep black backdrop, single point of impact glowing white-hot at the contact, dramatic cinematic lighting with cyan and amber rim accents, motion-frozen macro shot, photorealistic editorial photography, 85mm, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "Two premium devices suspended mid-collision with a glowing contact point against a dark backdrop, evoking the Apple vs OpenAI hardware lawsuit and ironic keyboard launch.",
+  "generated_at": "2026-07-20T15:06:10Z",
+  "generator": "lens",
+  "filename": "apple-vs-openai-keyboard_1.jpg",
+  "size_bytes": 181214,
+  "repo_path": "images/posts/2026-07-20/twitter/apple-vs-openai-keyboard_1.jpg"
+}
