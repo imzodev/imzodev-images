@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Kimi K3 — Moonshot pauses sign-ups 3 days after launch (GPUs couldn't keep up)",
+  "slug": "kimi-k3-frontier-flattens",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06ad9693e4bbe335ddfeade2e8c45fb8",
+  "prompt": "A single massive GPU die glowing molten orange-red at its core, suspended in a pitch-black void, tight low-angle macro framing, intricate gold circuit traces etched across the silicon, faint heat shimmer rising from the surface, dramatic cinematic side-lighting, photorealistic macro photography, shallow depth of field, 35mm, dark editorial, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A single glowing molten-orange GPU die suspended in a black void, suggesting frontier AI running at capacity.",
+  "generated_at": "2026-07-20T18:06:40Z",
+  "generator": "lens",
+  "filename": "kimi-k3-frontier-flattens_1.jpg",
+  "size_bytes": 155662,
+  "repo_path": "images/posts/2026-07-20/twitter/kimi-k3-frontier-flattens_1.jpg"
+}
