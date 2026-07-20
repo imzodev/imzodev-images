@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Apple Intelligence approved in China — integrating Alibaba Qwen and Baidu",
+  "slug": "apple-intelligence-china-approval",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06ad2c2ea3a9f240459753d1b3bcd56b",
+  "prompt": "A single monumental monolith of dark obsidian glass floating in a deep black void, two opposing energy auras wrapping around it, the left aura of cool silver-white light filaments flowing in smooth minimal curves, the right aura of warm crimson and gold crystalline facets, both auras converging at a brilliant white-hot core at center, dramatic dual rim lighting from opposing sides, low-angle 35mm cinematic editorial photography, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A dark obsidian orb floats in a black void — cool silver-white light swirls on one side, warm crimson-gold fire on the other, both converging at a brilliant central core.",
+  "generated_at": "2026-07-20T10:34:32Z",
+  "generator": "lens",
+  "filename": "apple-intelligence-china-approval_1.jpg",
+  "size_bytes": 166596,
+  "repo_path": "images/posts/2026-07-20/twitter/apple-intelligence-china-approval_1.jpg"
+}
