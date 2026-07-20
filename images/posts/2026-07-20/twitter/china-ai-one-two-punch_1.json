@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "China AI one-two punch: Moonshot Kimi K3 + Qwen 3.8 same weekend",
+  "slug": "china-ai-one-two-punch",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06ad73e106fa9bf275c4c9c0548d60f9",
+  "prompt": "Two towering server racks viewed from low angle, twin columns of intense cyan and amber light erupting from their tops into a deep indigo twilight sky, brushed-metal surfaces catching the glow, soft particle haze drifting in the beams, dramatic editorial sci-fi photography, 24mm wide-angle, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "Two towering server racks viewed from low angle, twin columns of cyan and amber light erupting into a deep twilight sky, evoking simultaneous AI launches.",
+  "generated_at": "2026-07-20T15:38:40Z",
+  "generator": "lens",
+  "filename": "china-ai-one-two-punch_1.jpg",
+  "size_bytes": 276531,
+  "repo_path": "images/posts/2026-07-20/twitter/china-ai-one-two-punch_1.jpg"
+}
