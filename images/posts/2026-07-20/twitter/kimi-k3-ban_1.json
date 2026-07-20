@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "US ban on Kimi K3, open-weights China AI moment",
+  "slug": "kimi-k3-ban",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06adc06d6a35a416eadcaedb4caebc7b",
+  "prompt": "A single oversized glowing key made of intricate golden circuit-board traces turning inside a heavy dark metallic lock, warm amber light pouring from the keyway into a deep matte black void, dramatic cinematic side rim lighting with cold blue accents, bold photorealistic editorial, cinematic macro photography, 35mm shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A glowing golden key made of circuit-board traces turning inside a heavy dark lock, warm light pouring into a black void — a metaphor for open-weights AI breaking through closed systems.",
+  "generated_at": "2026-07-20T21:05:16Z",
+  "generator": "lens",
+  "filename": "kimi-k3-ban_1.jpg",
+  "size_bytes": 257546,
+  "repo_path": "images/posts/2026-07-20/twitter/kimi-k3-ban_1.jpg"
+}
