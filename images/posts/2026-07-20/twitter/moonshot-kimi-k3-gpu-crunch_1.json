@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Moonshot AI Kimi K3 GPU crunch — 1M-token context model pauses subscriptions",
+  "slug": "moonshot-kimi-k3-gpu-crunch",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06ad38dd4a65915ad72cfdfe0a6a5ac6",
+  "prompt": "a single glowing crescent moon etched with thousands of densely-packed glowing micro-circuit traces, surface cracking and fracturing under thermal stress, molten orange and red light bleeding through fissures, circuit lines dripping downward like glowing magma, deep cosmic void backdrop, photorealistic CGI render, dramatic side rim lighting, shallow depth of field, cinematic, 35mm, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A glowing crescent moon made of dense circuitry fractures and melts under thermal stress against a cosmic void, evoking a frontier AI model overwhelmed by demand.",
+  "generated_at": "2026-07-20T11:27:21Z",
+  "generator": "lens",
+  "filename": "moonshot-kimi-k3-gpu-crunch_1.jpg",
+  "size_bytes": 263061,
+  "repo_path": "images/posts/2026-07-20/twitter/moonshot-kimi-k3-gpu-crunch_1.jpg"
+}
