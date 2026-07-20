@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "smoke",
+  "topic": "smoke test of the lens image pipeline",
+  "slug": "smoke-test-of-the-lens-image-pipeline",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06ad241c25db1ce6d2f6ded63131fbb7",
+  "prompt": "a single brilliant red emergency flare shooting upward into a pitch black sky, sparks trailing behind in long exposure streaks, dramatic low-angle composition, intense high contrast cinematic lighting, photorealistic editorial, 35mm",
+  "alt_text": "A brilliant red emergency flare shooting upward into a pitch black sky, sparks trailing in long-exposure streaks, dramatic cinematic lighting.",
+  "generated_at": "2026-07-20T10:09:37Z",
+  "generator": "lens",
+  "filename": "smoke-test-of-the-lens-image-pipeline_1.jpg",
+  "size_bytes": 140406,
+  "repo_path": "images/smoke/2026-07-20/smoke-test-of-the-lens-image-pipeline_1.jpg"
+}
