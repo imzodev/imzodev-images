@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "While DC debated export controls, China shipped Kimi K3 — a 2.8T-param open-weights frontier model. The US AI lead is no longer a fact.",
+  "slug": "kimi-k3-moat-shrinks",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06ad3d23ef2aaf03679b2eb92785fd58",
+  "prompt": "A single massive ancient fortress wall split down the center by a jagged crack, blazing deep-amber light pouring through the breach, rough stone at the crack edge lined with glowing neural-network filaments, deep black void background, dramatic low-angle hero shot, 35mm cinematic photography, photorealistic editorial, bold contrast",
+  "alt_text": "A colossal ancient fortress wall split by a jagged crack with blazing amber light pouring through; neural-network filaments glow along the fracture against a dark void.",
+  "generated_at": "2026-07-20T11:45:51Z",
+  "generator": "lens",
+  "filename": "kimi-k3-moat-shrinks_1.jpg",
+  "size_bytes": 390149,
+  "repo_path": "images/posts/2026-07-20/twitter/kimi-k3-moat-shrinks_1.jpg"
+}
