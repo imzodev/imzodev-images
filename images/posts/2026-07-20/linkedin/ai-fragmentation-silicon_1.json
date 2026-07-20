@@ -1,0 +1,18 @@
+{
+  "platform": "linkedin",
+  "purpose": "posts",
+  "topic": "AI fragmentation, Asia rises, silicon is the new frontier",
+  "slug": "ai-fragmentation-silicon",
+  "n": 1,
+  "mood": "professional",
+  "aspect_ratio": "3:4",
+  "model": "image-01",
+  "trace_id": "06ad9097e8d2932b80da17e17768fbee",
+  "prompt": "a single luminous silicon wafer positioned upper third, intricate branching circuit traces radiating outward in multiple directions, polished dark reflective surface, deep black studio backdrop, cool cyan rim lighting, light rays diverging asymmetrically from chip edges, cinematic macro photography, shallow depth of field, photorealistic editorial, 85mm, moody high-contrast, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "Dramatic close-up of a luminous silicon wafer with branching circuit traces radiating outward in cool cyan light against a black backdrop, suggesting a shifting center of gravity in AI hardware.",
+  "generated_at": "2026-07-20T17:41:41Z",
+  "generator": "lens",
+  "filename": "ai-fragmentation-silicon_1.jpg",
+  "size_bytes": 251601,
+  "repo_path": "images/posts/2026-07-20/linkedin/ai-fragmentation-silicon_1.jpg"
+}
