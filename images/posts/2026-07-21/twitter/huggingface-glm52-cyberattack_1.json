@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Hugging Face cyberattack defended by Z.ai GLM 5.2 — open weights vs commercial safety filters",
+  "slug": "huggingface-glm52-cyberattack",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06ae699ece386b09a80aeb8d16693595",
+  "prompt": "a single luminous open-weight neural-network constellation branching like crystalline roots, glowing cyan, shielding a small glowing server-core from a converging swarm of red data-particles, deep black void, dramatic cinematic rim lighting, high contrast, photorealistic editorial, 35mm shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A glowing cyan neural-network constellation branching like crystalline roots shields a server-core from red data-particle attacks in a dark void.",
+  "generated_at": "2026-07-21T09:08:02Z",
+  "generator": "lens",
+  "filename": "huggingface-glm52-cyberattack_1.jpg",
+  "size_bytes": 300927,
+  "repo_path": "images/posts/2026-07-21/twitter/huggingface-glm52-cyberattack_1.jpg"
+}
