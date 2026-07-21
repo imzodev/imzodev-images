@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Anthropic $1.5B copyright settlement approved — end of scrape-and-apologize era",
+  "slug": "anthropic-copyright-settlement",
+  "n": 2,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06aebf1935874ae6a7a94240e478fa55",
+  "prompt": "A single oversized golden gavel frozen mid-strike above a stack of leather-bound books on dark polished mahogany, dramatic chiaroscuro side lighting, deep black backdrop, cinematic editorial photography, 35mm, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A golden gavel frozen mid-strike above leather-bound books on dark mahogany, dramatic chiaroscuro lighting.",
+  "generated_at": "2026-07-21T15:12:30Z",
+  "generator": "lens",
+  "filename": "anthropic-copyright-settlement_2.jpg",
+  "size_bytes": 161533,
+  "repo_path": "images/posts/2026-07-21/twitter/anthropic-copyright-settlement_2.jpg"
+}
