@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Kimi K3 by Moonshot AI: 2.8T params, 1M context, open-weight, made in China",
+  "slug": "kimi-k3-dragons-pearl",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06ae152965a8ca435fac5acf1845b5f9",
+  "prompt": "A single colossal floating orb of deep crimson light, its surface densely etched with glowing neural-network filigree and circuit-like veins, suspended in vast dark void with subtle volumetric mist at the base, slightly off-center composition, sharp red rim light from upper left, deep blacks with saturated red highlights, photorealistic cinematic render, monumental scale, 35mm anamorphic lens, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A colossal glowing red orb covered in intricate circuit-like filigree floats in a dark void, its crimson light casting a sharp rim glow against the surrounding blackness.",
+  "generated_at": "2026-07-21T03:06:44Z",
+  "generator": "lens",
+  "filename": "kimi-k3-dragons-pearl_1.jpg",
+  "size_bytes": 200175,
+  "repo_path": "images/posts/2026-07-21/twitter/kimi-k3-dragons-pearl_1.jpg"
+}
