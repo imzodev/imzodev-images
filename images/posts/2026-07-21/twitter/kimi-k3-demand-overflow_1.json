@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Moonshot Kimi K3 — China AI model pauses signups due to demand overflow",
+  "slug": "kimi-k3-demand-overflow",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06adea9ca0bfbf7987b8854b0da12e25",
+  "prompt": "A faceted crystalline core glowing with intense inner cyan light, suspended on a dark obsidian pedestal, surrounded by hundreds of luminous particle packets spiraling inward like a galaxy, while a single glowing red barrier deflects them. Deep black void, dramatic cinematic rim lighting, volumetric light rays, photorealistic 3D render, 35mm, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A glowing crystalline core on a dark pedestal, surrounded by spiraling particles being deflected by a red barrier — a metaphor for AI demand overwhelming capacity.",
+  "generated_at": "2026-07-21T00:05:19Z",
+  "generator": "lens",
+  "filename": "kimi-k3-demand-overflow_1.jpg",
+  "size_bytes": 280348,
+  "repo_path": "images/posts/2026-07-21/twitter/kimi-k3-demand-overflow_1.jpg"
+}
