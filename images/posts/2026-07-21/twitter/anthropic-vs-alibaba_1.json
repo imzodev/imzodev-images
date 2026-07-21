@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Anthropic pays $1.5B copyright settlement same week Alibaba open-sources Qwen 3.8 Max (2.4T params)",
+  "slug": "anthropic-vs-alibaba",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06ae936580cd337bf12006885da8202b",
+  "prompt": "A single monumental steel vault door cracked from within, brilliant white-gold light bursting through every seam and fracture, volumetric rays flooding into a deep black void, dust particles suspended in escaping beams, dramatic cinematic rim lighting, photorealistic editorial photography, 35mm wide-angle, low angle, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A monumental steel vault door cracked from within, brilliant white-gold light bursting through every seam into a black void.",
+  "generated_at": "2026-07-21T12:05:26Z",
+  "generator": "lens",
+  "filename": "anthropic-vs-alibaba_1.jpg",
+  "size_bytes": 323185,
+  "repo_path": "images/posts/2026-07-21/twitter/anthropic-vs-alibaba_1.jpg"
+}
