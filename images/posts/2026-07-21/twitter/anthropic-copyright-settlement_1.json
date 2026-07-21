@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Anthropic $1.5B copyright settlement — Claude trained on pirated books",
+  "slug": "anthropic-copyright-settlement",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06ae3ee1812fe49bbbadd0c92f409a5c",
+  "prompt": "A single oversized wooden judge's gavel frozen mid-strike above a sprawling stack of weathered leather-bound books, dramatic overhead spotlight, deep moody shadows on a dark slate backdrop, cinematic editorial photography, photorealistic, 35mm, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A single oversized wooden judge's gavel frozen mid-strike above a sprawling stack of weathered leather-bound books, dramatic overhead spotlight on a dark slate backdrop, cinematic editorial.",
+  "generated_at": "2026-07-21T06:04:45Z",
+  "generator": "lens",
+  "filename": "anthropic-copyright-settlement_1.jpg",
+  "size_bytes": 220406,
+  "repo_path": "images/posts/2026-07-21/twitter/anthropic-copyright-settlement_1.jpg"
+}
