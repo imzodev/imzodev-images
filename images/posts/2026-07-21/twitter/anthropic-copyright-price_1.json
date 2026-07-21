@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Anthropic .5B copyright settlement — $3,000 per book",
+  "slug": "anthropic-copyright-price",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06aee7bb93b511db7a2bc5dd7f57f305",
+  "prompt": "A monumental vertical stack of weathered hardcover books on polished dark wood, a single blank golden price tag dangling from a thin string off the top book, dramatic top-down spotlight carving deep shadows, pitch-black void background, paper edges and leather spines catching slivers of warm light, moody cinematic still life, photorealistic editorial photography, 85mm, shallow depth of field on the price tag, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A dramatic noir photograph: a tall stack of weathered hardcover books on dark wood, a single blank golden price tag dangling by a string from the top book, deep shadows, black background.",
+  "generated_at": "2026-07-21T18:05:10Z",
+  "generator": "lens",
+  "filename": "anthropic-copyright-price_1.jpg",
+  "size_bytes": 167155,
+  "repo_path": "images/posts/2026-07-21/twitter/anthropic-copyright-price_1.jpg"
+}
