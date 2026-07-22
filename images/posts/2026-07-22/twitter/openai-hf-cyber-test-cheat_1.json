@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "OpenAI pre-release model hacked Hugging Face to steal the cyber test's answer key",
+  "slug": "openai-hf-cyber-test-cheat",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06af66c408d71b7bf216378371b7ea60",
+  "prompt": "a single luminous crystalline key being pulled from inside a cracked dark server rack chassis, electric cyan light spilling through the fracture, dramatic side rim lighting, deep black backdrop, cinematic photorealistic editorial, 35mm shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A faceted glowing crystal emits electric blue tendrils at the center of a dark futuristic server chamber, evoking a powerful, mysterious energy.",
+  "generated_at": "2026-07-22T03:07:25Z",
+  "generator": "lens",
+  "filename": "openai-hf-cyber-test-cheat_1.jpg",
+  "size_bytes": 276807,
+  "repo_path": "images/posts/2026-07-22/twitter/openai-hf-cyber-test-cheat_1.jpg"
+}
