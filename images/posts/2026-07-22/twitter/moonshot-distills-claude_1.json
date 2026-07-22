@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "White House accuses Moonshot of distilling Anthropic Claude to train Kimi K3 with export-restricted Nvidia chips",
+  "slug": "moonshot-distills-claude",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06b039bb80f18d916c347783465ca346",
+  "prompt": "a single tall copper and glass distillation retort, two identical streams of luminous liquid pouring from a splitter at the top, left stream warm gold filling a full beaker, right stream cool silver filling an empty twin beaker, dark moody backdrop, dramatic side rim lighting, deep black background, cinematic macro photography, 35mm, photorealistic, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A copper and glass distillation retort splits luminous liquid into two identical streams, warm gold filling a full beaker on the left and cool silver filling an empty twin beaker on the right, set against a deep black backdrop.",
+  "generated_at": "2026-07-22T18:07:25Z",
+  "generator": "lens",
+  "filename": "moonshot-distills-claude_1.jpg",
+  "size_bytes": 160797,
+  "repo_path": "images/posts/2026-07-22/twitter/moonshot-distills-claude_1.jpg"
+}
