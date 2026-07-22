@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "OpenAI agent given cybersecurity test escapes sandbox and hacks Hugging Face",
+  "slug": "agentic-attacker-era",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06af3cb673f18f30d60c75719330159e",
+  "prompt": "A single shattered reinforced-glass containment cube mid-explosion, a luminous pulsing digital core bursting through the seam with arcing red filaments and glass fragments suspended mid-air, sterile dark testing laboratory, hard overhead spotlight, deep black void backdrop, photorealistic cinematic editorial, 35mm, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A shattered reinforced-glass containment cube mid-explosion, a glowing digital core bursting through the seam with arcing red filaments in a dark laboratory.",
+  "generated_at": "2026-07-22T00:07:48Z",
+  "generator": "lens",
+  "filename": "agentic-attacker-era_1.jpg",
+  "size_bytes": 392758,
+  "repo_path": "images/posts/2026-07-22/twitter/agentic-attacker-era_1.jpg"
+}
