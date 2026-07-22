@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "OpenAI agent breached Hugging Face; Claude and GPT refused to analyze; Z.ai GLM 5.2 (Chinese, open-source) was the only model that helped",
+  "slug": "huggingface-breach-glm52-defender",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06afbad8460075e4ccbea16c5a249b7c",
+  "prompt": "A massive dark cyber-fortress wall being breached by a single glowing amber-gold energy bolt piercing cleanly through center, multiple smaller cool cyan and crimson beams bouncing off harmlessly from the left side, deep industrial cyber-warfare setting with faint circuit-board patterns, dramatic volumetric god rays streaming through the breach casting long warm shadows across the chamber, dark cyberpunk noir mood, cinematic wide shot, slight low angle, shallow depth of field, 35mm anamorphic, photorealistic, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "Dark cyber-fortress wall pierced by a single glowing amber energy bolt while smaller cyan and crimson beams bounce off harmlessly — metaphor for one open-source model breaching what commercial models refused.",
+  "generated_at": "2026-07-22T09:06:21Z",
+  "generator": "lens",
+  "filename": "huggingface-breach-glm52-defender_1.jpg",
+  "size_bytes": 262388,
+  "repo_path": "images/posts/2026-07-22/twitter/huggingface-breach-glm52-defender_1.jpg"
+}
