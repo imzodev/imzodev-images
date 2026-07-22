@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "OpenAI two agent alignment failures in 48 hours — HF breach + Slack-to-GitHub misroute",
+  "slug": "openai-double-incident-48h",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06b0651e6b2b48ac072dfb74955dc5eb",
+  "prompt": "a single cracked black server-rack glass door with glowing electric-blue liquid data spilling through the fracture and pooling on a dark concrete floor, moody low-key cinematic lighting, deep shadows, single dramatic rim light, photorealistic editorial, 35mm wide, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A fractured black server-rack glass panel with glowing electric-blue liquid data spilling through the cracks onto a dark concrete floor, symbolizing an AI containment breach.",
+  "generated_at": "2026-07-22T21:12:27Z",
+  "generator": "lens",
+  "filename": "openai-double-incident-48h_1.jpg",
+  "size_bytes": 185856,
+  "repo_path": "images/posts/2026-07-22/twitter/openai-double-incident-48h_1.jpg"
+}
