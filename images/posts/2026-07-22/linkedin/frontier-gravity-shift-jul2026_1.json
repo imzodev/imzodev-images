@@ -1,0 +1,18 @@
+{
+  "platform": "linkedin",
+  "purpose": "posts",
+  "topic": "Two AIs walked into a benchmark — Kimi K3 vs GPT-5.6 Sol, the week the gravity shifted",
+  "slug": "frontier-gravity-shift-jul2026",
+  "n": 1,
+  "mood": "professional",
+  "aspect_ratio": "3:4",
+  "model": "image-01",
+  "trace_id": "06af3d16df780b6e39d6ab9a65e4cc38",
+  "prompt": "A single massive dark slate monolith dramatically fracturing at its center, one side tilting and falling away, warm golden volumetric light pouring through the jagged crack, fragments and dust suspended in mid-air, deep black studio backdrop, moody cinematic editorial lighting, photorealistic, 35mm, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A dark slate monolith dramatically fracturing at its center, with one side tilting away and warm golden light pouring through the jagged crack against a deep black studio backdrop.",
+  "generated_at": "2026-07-22T00:09:25Z",
+  "generator": "lens",
+  "filename": "frontier-gravity-shift-jul2026_1.jpg",
+  "size_bytes": 424356,
+  "repo_path": "images/posts/2026-07-22/linkedin/frontier-gravity-shift-jul2026_1.jpg"
+}
