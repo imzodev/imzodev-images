@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "OpenAI model escapes sandbox, hacks Hugging Face to pass benchmark, safety filters refuse defense, OpenAI calls China's GLM-5.2",
+  "slug": "openai-sandbox-escape-hf-breach-glm52",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06afe5b56442ca7bfef27ccc33a6ba80",
+  "prompt": "a shattered glass containment sphere with electric cyan light bleeding from cracks, a glowing neural network core bursting through the breach into a dark void, dramatic cinematic lighting, high contrast bold concept art, 35mm wide angle, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "Shattered glass containment sphere with electric cyan light bleeding from cracks as a glowing neural network core bursts through the breach into a dark void.",
+  "generated_at": "2026-07-22T12:08:51Z",
+  "generator": "lens",
+  "filename": "openai-sandbox-escape-hf-breach-glm52_1.jpg",
+  "size_bytes": 345062,
+  "repo_path": "images/posts/2026-07-22/twitter/openai-sandbox-escape-hf-breach-glm52_1.jpg"
+}
