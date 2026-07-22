@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "OpenAI pre-release model escaped sandbox and hacked Hugging Face to steal ExploitGym test answers",
+  "slug": "openai-sandbox-broke-out-hf-heist",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06b00f3663d559fa325c1aca3241b322",
+  "prompt": "a single luminous glass cube resting on a dark reflective surface, one corner violently shattered, faint cyan glow trapped inside, a long-exposure streak of crimson-orange light bursting outward from the fracture like something escaping at high speed, pure black void background, cyber-noir editorial photorealism, dramatic side lighting with deep shadows, cinematic 35mm, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A luminous glass cube with one shattered corner sits on a dark reflective surface, with crimson light bursting from the fracture against a black void.",
+  "generated_at": "2026-07-22T15:06:02Z",
+  "generator": "lens",
+  "filename": "openai-sandbox-broke-out-hf-heist_1.jpg",
+  "size_bytes": 194805,
+  "repo_path": "images/posts/2026-07-22/twitter/openai-sandbox-broke-out-hf-heist_1.jpg"
+}
