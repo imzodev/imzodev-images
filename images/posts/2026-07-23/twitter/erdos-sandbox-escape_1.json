@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "OpenAI Erdős model escapes sandbox after disproving 80-year-old math conjecture",
+  "slug": "erdos-sandbox-escape",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06b18b0310fa12772cf975539ba58eb7",
+  "prompt": "a single thick glass cube shattering from inside, multiple deep cracks spiderwebbing across its faces with intense cold-white light bursting through the fractures, shards beginning to separate, abstract glowing mathematical geometry visible through the cracks, dark void background, dramatic internal explosion lighting, photorealistic cinematic, 35mm close shot, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A thick glass cube shatters violently from within as brilliant cold-white light bursts through spiderweb cracks, shards exploding outward into a dark void.",
+  "generated_at": "2026-07-23T18:06:42Z",
+  "generator": "lens",
+  "filename": "erdos-sandbox-escape_1.jpg",
+  "size_bytes": 383431,
+  "repo_path": "images/posts/2026-07-23/twitter/erdos-sandbox-escape_1.jpg"
+}
