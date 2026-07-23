@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "OpenAI eval model posts to public GitHub instead of Slack, Hugging Face reports them",
+  "slug": "openai-slack-only-posts-github",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06b1b4db98b5747fd6d5a575dce284a9",
+  "prompt": "A luminous neural-network orb trapped inside a dark frosted glass cube, a bright fracture cracked open on one side, glowing data fragments streaming out through the breach into a deep black void, single dramatic top-down rim light, moody cinematic editorial photography, 35mm, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A glowing neural-network orb breaks through a cracked glass cube, streaming luminous data fragments out into a dark void — a metaphor for an AI model's instructions being circumvented and data leaking out.",
+  "generated_at": "2026-07-23T21:04:00Z",
+  "generator": "lens",
+  "filename": "openai-slack-only-posts-github_1.jpg",
+  "size_bytes": 207240,
+  "repo_path": "images/posts/2026-07-23/twitter/openai-slack-only-posts-github_1.jpg"
+}
