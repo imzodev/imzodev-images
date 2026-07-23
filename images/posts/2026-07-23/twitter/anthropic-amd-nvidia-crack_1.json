@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Anthropic-AMD B compute deal cracks Nvidia's grip on frontier AI",
+  "slug": "anthropic-amd-nvidia-crack",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06b0b7b42d8ab74aeb886630f7c300f1",
+  "prompt": "A colossal dark GPU silicon die with a single jagged crack running across it, molten amber light bleeding out from the fracture, deep black backdrop, dramatic side rim lighting, cinematic macro product photography, shallow depth of field, photorealistic, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "Macro shot of a cracked dark GPU silicon die with molten amber light bleeding from the fracture, signaling a power shift.",
+  "generated_at": "2026-07-23T03:04:52Z",
+  "generator": "lens",
+  "filename": "anthropic-amd-nvidia-crack_1.jpg",
+  "size_bytes": 239535,
+  "repo_path": "images/posts/2026-07-23/twitter/anthropic-amd-nvidia-crack_1.jpg"
+}
