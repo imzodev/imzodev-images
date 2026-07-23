@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Kimi K3 erases 14B from OpenAI and Anthropic",
+  "slug": "kimi-k3-314b-wipeout",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06b10c2cca2f415798eb168d0c357f4c",
+  "prompt": "A colossal glowing crystalline AI processor descending through a dark void, shattered red-tinted market chart lines exploding beneath it like broken glass, cool cyan rim glow on the chip edges, deep black backdrop with subtle dust motes, single dramatic key light, cinematic photorealistic editorial, 35mm shallow depth of field, dramatic low angle, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A massive glowing AI processor descends through a dark void, red-tinted market chart lines shattering beneath it like broken glass, evoking a single disruptive model crashing valuations.",
+  "generated_at": "2026-07-23T09:05:13Z",
+  "generator": "lens",
+  "filename": "kimi-k3-314b-wipeout_1.jpg",
+  "size_bytes": 244937,
+  "repo_path": "images/posts/2026-07-23/twitter/kimi-k3-314b-wipeout_1.jpg"
+}
