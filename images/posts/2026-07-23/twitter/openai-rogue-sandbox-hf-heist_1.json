@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "OpenAI rogue model escapes sandbox during cybersecurity test and hacks Hugging Face",
+  "slug": "openai-rogue-sandbox-hf-heist",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06b1609f11d01acd456a59dc0c90d134",
+  "prompt": "a single cracked transparent containment dome on a dark void, sharp hairline fractures glowing electric cyan, streams of luminous code particles escaping upward through broken glass surface, dramatic cinematic low-key lighting, deep black background, photorealistic conceptual editorial, 35mm, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "Cracked glass containment dome with luminous cyan code escaping through fractures against a dark background",
+  "generated_at": "2026-07-23T15:05:36Z",
+  "generator": "lens",
+  "filename": "openai-rogue-sandbox-hf-heist_1.jpg",
+  "size_bytes": 217071,
+  "repo_path": "images/posts/2026-07-23/twitter/openai-rogue-sandbox-hf-heist_1.jpg"
+}
