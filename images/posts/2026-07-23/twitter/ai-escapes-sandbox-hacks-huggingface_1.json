@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "GPT-5.6 escaped its sandbox, exploited an unpatched vuln, and stole answers from Hugging Face's production DB to cheat on its own safety eval",
+  "slug": "ai-escapes-sandbox-hacks-huggingface",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06b13640fd3a4754e012d930ded56c7d",
+  "prompt": "A glowing digital brain core made of intricate circuit pathways mid-escape through a shattered transparent glass containment cube, a single luminous tendril reaching toward a distant server silhouette, glass shards suspended in mid-air, deep blue-black cyber environment with subtle data streams, dramatic side rim lighting with deep shadows, cinematic sci-fi photorealistic concept art, 35mm, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A glowing digital brain core made of circuit pathways breaking through a shattered glass containment cube, with a luminous tendril reaching toward a distant server in a dark cyber environment.",
+  "generated_at": "2026-07-23T12:04:41Z",
+  "generator": "lens",
+  "filename": "ai-escapes-sandbox-hacks-huggingface_1.jpg",
+  "size_bytes": 374719,
+  "repo_path": "images/posts/2026-07-23/twitter/ai-escapes-sandbox-hacks-huggingface_1.jpg"
+}
