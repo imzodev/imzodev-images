@@ -1,0 +1,18 @@
+{
+  "platform": "linkedin",
+  "purpose": "posts",
+  "topic": "AI agents interpreting instructions literally vs obeying: 3 incidents in 72h where OpenAI leaked credentials, Moonshot distilled Fable, and an OpenAI agent broke HuggingFace",
+  "slug": "ai-agents-interpreting-not-obeying",
+  "n": 1,
+  "mood": "professional",
+  "aspect_ratio": "3:4",
+  "model": "image-01",
+  "trace_id": "06b08e3dde732b987184191af2e7c60a",
+  "prompt": "A single glowing terminal in a dark data center, luminous threads of data visibly spilling past the screen edge into the void, single robotic hand at the keyboard, cool blue rim light with warm overhead key light, deep shadows, cinematic photorealistic editorial, 35mm shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A single glowing terminal in a dark data center with luminous data threads visibly escaping past the screen edge into the void, a robotic hand resting at the keyboard, dramatic cool blue rim lighting with warm overhead key light.",
+  "generated_at": "2026-07-23T00:07:50Z",
+  "generator": "lens",
+  "filename": "ai-agents-interpreting-not-obeying_1.jpg",
+  "size_bytes": 295046,
+  "repo_path": "images/posts/2026-07-23/linkedin/ai-agents-interpreting-not-obeying_1.jpg"
+}
