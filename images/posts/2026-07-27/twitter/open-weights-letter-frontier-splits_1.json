@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "70+ companies sign Open Weights letter defending open-source AI; OpenAI and Anthropic refuse to sign; the frontier splits in public",
+  "slug": "open-weights-letter-frontier-splits",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06b6a6bc4ba7062efb17b2b733d72ea4",
+  "prompt": "A colossal dark obsidian geometric frontier sphere suspended in deep void, cleanly split down the middle by a brilliant jagged fissure of pure white light, the left half radiating warm gold and amber glow, the right half receding into cold steel-blue shadow, sharp asymmetric fragments drifting apart, dramatic cinematic chiaroscuro lighting, photorealistic editorial concept photography, 35mm anamorphic lens, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A colossal dark obsidian geometric frontier sphere suspended in deep void, split down the middle by a jagged luminous fissure; the left half glows warm gold, the right fades into cold steel-blue shadow.",
+  "generated_at": "2026-07-27T15:06:00Z",
+  "generator": "lens",
+  "filename": "open-weights-letter-frontier-splits_1.jpg",
+  "size_bytes": 246136,
+  "repo_path": "images/posts/2026-07-27/twitter/open-weights-letter-frontier-splits_1.jpg"
+}
