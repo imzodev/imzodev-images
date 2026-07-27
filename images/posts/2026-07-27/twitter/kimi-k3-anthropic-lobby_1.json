@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Kimi K3 open-weights vs Anthropic lobbying",
+  "slug": "kimi-k3-anthropic-lobby",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "lens-kimi-k3-anthropic-lobby-20260727T060846Z",
+  "prompt": "A single colossal glowing wireframe neural-network sphere shattering through a heavy sealed dark metal vault, sharp angular fragments drifting outward into a deep black void, brilliant cyan and warm gold light pouring through the cracks, dramatic side lighting with rim glow, photorealistic cinematic editorial photography, 35mm, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A colossal glowing wireframe neural-network sphere shatters through a dark metal vault, cyan and gold light pouring from cracks into a black void.",
+  "generated_at": "2026-07-27T06:08:50Z",
+  "generator": "lens",
+  "filename": "kimi-k3-anthropic-lobby_1.jpg",
+  "size_bytes": 415868,
+  "repo_path": "images/posts/2026-07-27/twitter/kimi-k3-anthropic-lobby_1.jpg"
+}
