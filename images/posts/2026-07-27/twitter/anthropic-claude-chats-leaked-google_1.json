@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Anthropic Claude shared chats indexed by Google — crypto keys and legal questions exposed; forgot the noindex tag",
+  "slug": "anthropic-claude-chats-leaked-google",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06b652ae2b6338feaaa30afe3258d9be",
+  "prompt": "A single blackened steel vault door with a sharp fracture crack, luminous golden data particles streaming out through the broken seal into a dark smoky void, smoke wisps curling through the escaping light, dramatic chiaroscuro lighting, cinematic photorealistic editorial photography, 35mm macro lens, shallow depth of field, bold and ominous, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A cracked black vault door with luminous golden data particles streaming through a sharp fracture into a dark void — metaphor for sensitive data escaping containment.",
+  "generated_at": "2026-07-27T09:08:30Z",
+  "generator": "lens",
+  "filename": "anthropic-claude-chats-leaked-google_1.jpg",
+  "size_bytes": 253351,
+  "repo_path": "images/posts/2026-07-27/twitter/anthropic-claude-chats-leaked-google_1.jpg"
+}
