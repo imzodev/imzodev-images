@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Z.ai stock dropped 30% the same day Moonshot released Kimi K3 (2.8T params, open weights); markets treat open-source AI as a hostile competitive event; the frontier isn't just leaking, it's bleeding",
+  "slug": "frontier-bleeds-zai-crash",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06b6d08ec9b634caaa1344e5e36cf220",
+  "prompt": "a colossal black monolithic slab standing in deep void, split vertically by a jagged fissure glowing with intense crimson light, glowing red droplets fragmenting and drifting outward from the crack in slow motion, the bleeding edge of a closed frontier, single dramatic side rim light, deep black backdrop, cinematic chiaroscuro, photorealistic editorial concept photography, 35mm anamorphic lens, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A colossal dark monolithic slab in deep void, split vertically by a jagged fissure glowing with intense crimson light; red droplets fragment outward from the crack in slow motion, like the closed AI frontier bleeding from an open-source wound.",
+  "generated_at": "2026-07-27T18:04:00Z",
+  "generator": "lens",
+  "filename": "frontier-bleeds-zai-crash_1.jpg",
+  "size_bytes": 139073,
+  "repo_path": "images/posts/2026-07-27/twitter/frontier-bleeds-zai-crash_1.jpg"
+}
