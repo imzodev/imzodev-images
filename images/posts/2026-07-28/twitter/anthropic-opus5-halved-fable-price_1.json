@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "anthropic halved flagship price",
+  "slug": "anthropic-opus5-halved-fable-price",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06b750e7e3e794eb62255f9d1adbb89c",
+  "prompt": "A single oversized polished chrome luxury price tag suspended by a thin steel chain in a dark void, with a precise clean diagonal cleave splitting it perfectly in half — the two halves hanging mid-separation with warm amber rim light catching the freshly-cut metallic edges, deep black backdrop with subtle radial vignette, cinematic editorial macro photography, 85mm lens, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "Chrome luxury price tag split cleanly in half on a dark background, evoking Anthropic halving the price of its Opus 5 flagship.",
+  "generated_at": "2026-07-28T03:28:58Z",
+  "generator": "lens",
+  "filename": "anthropic-opus5-halved-fable-price_1.jpg",
+  "size_bytes": 79479,
+  "repo_path": "images/posts/2026-07-28/twitter/anthropic-opus5-halved-fable-price_1.jpg"
+}
