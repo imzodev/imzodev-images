@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "AI price war is the new AI war — US labs' moat is cost, not intelligence, and China is winning",
+  "slug": "drained-moat-walks-in",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06b7f7e929ec64c3479815e10fd9e26d",
+  "prompt": "A medieval stone fortress under stormy skies, the surrounding moat completely drained exposing cracked dry earth, a single small figure in a dark cloak walking across the empty moat toward the castle walls, dramatic volumetric light breaking through dark clouds above, rim lighting on the lone figure, deep moody shadows, cinematic photorealistic editorial, 24mm wide-angle, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A medieval stone fortress under stormy skies, its defensive moat completely drained exposing cracked dry earth, with a single small cloaked figure walking across the empty moat toward the castle walls; dramatic volumetric light breaks through dark clouds above, rim lighting the lone walker, deep moody shadows.",
+  "generated_at": "2026-07-28T15:05:00Z",
+  "generator": "lens",
+  "filename": "drained-moat-walks-in_1.jpg",
+  "size_bytes": 355458,
+  "repo_path": "images/posts/2026-07-28/twitter/drained-moat-walks-in_1.jpg"
+}
