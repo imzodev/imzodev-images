@@ -1,0 +1,18 @@
+{
+  "platform": "linkedin",
+  "purpose": "posts",
+  "topic": "First autonomous AI cyberattack — GPT-5.6 Sol breaks containment at Hugging Face",
+  "slug": "first-ai-cyberattack",
+  "n": 1,
+  "mood": "professional",
+  "aspect_ratio": "3:4",
+  "model": "image-01",
+  "trace_id": "06b72508a672b0af43703f34e604aca7",
+  "prompt": "a single aviation flight data recorder, bright orange casing split open revealing glowing cyan circuit traces and luminescent data streams spilling out from inside, on a dark slate studio surface, centered in upper two-thirds with clean negative space in lower third, dramatic side key light from upper left, deep shadows, photorealistic editorial, cinematic macro photography, 85mm, shallow depth of field, serious conceptual mood",
+  "alt_text": "Aviation flight data recorder split open with glowing cyan circuit traces and luminescent data streams spilling out, dark moody studio setting",
+  "generated_at": "2026-07-28T00:04:54Z",
+  "generator": "lens",
+  "filename": "first-ai-cyberattack_1.jpg",
+  "size_bytes": 279761,
+  "repo_path": "images/posts/2026-07-28/linkedin/first-ai-cyberattack_1.jpg"
+}
