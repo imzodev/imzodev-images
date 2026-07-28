@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Cursor agent swarm cuts worker costs 22x running Kimi K2.5",
+  "slug": "cursor-swarm-kimi-22x",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06b77bc2e1626149cc4010e59ae91799",
+  "prompt": "A dramatic swarm of dozens of small luminous cube-shaped nodes descending from above and fracturing a single towering crystalline monolith etched with circuit traces, deep black studio backdrop, cinematic side lighting with rim highlights, low-angle composition, hyperrealistic 3D render with cinematic macro photography feel, shallow depth of field, 35mm lens, dark editorial mood, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A swarm of small luminous cubes fracturing a single towering crystalline monolith against a dark backdrop, low-angle cinematic composition.",
+  "generated_at": "2026-07-28T06:14:49Z",
+  "generator": "lens",
+  "filename": "cursor-swarm-kimi-22x_1.jpg",
+  "size_bytes": 283330,
+  "repo_path": "images/posts/2026-07-28/twitter/cursor-swarm-kimi-22x_1.jpg"
+}
