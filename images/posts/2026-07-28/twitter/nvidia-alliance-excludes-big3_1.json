@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Nvidia's Open Secure AI Alliance picks sides: 30+ open-source players in (Microsoft, Nvidia, IBM, Cisco, CrowdStrike, Palo Alto, Red Hat), the big 3 closed labs (OpenAI, Google, Anthropic) conspicuously out — the open-vs-closed AI war isn't coming, it's here",
+  "slug": "nvidia-alliance-excludes-big3",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06b84c2766715d357832f0128668cb09",
+  "prompt": "A colossal ancient fortress gate split cleanly down the middle, one half thrown wide open with brilliant warm golden light flooding through the breach and broken iron chains dangling loose, the other half still bolted shut with heavy iron rivets and a massive steel padlock, deep cracked stone walls receding into shadow on both sides, low-angle dramatic chiaroscuro lighting, photorealistic editorial photography, 35mm wide angle, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A colossal fortress gate split cleanly down the middle: one half thrown open with warm golden light flooding through and broken chains dangling free, the other half still bolted shut with a massive padlock — symbolizing the AI industry splitting between the open alliance and the closed labs.",
+  "generated_at": "2026-07-28T21:03:00Z",
+  "generator": "lens",
+  "filename": "nvidia-alliance-excludes-big3_1.jpg",
+  "size_bytes": 380996,
+  "repo_path": "images/posts/2026-07-28/twitter/nvidia-alliance-excludes-big3_1.jpg"
+}
