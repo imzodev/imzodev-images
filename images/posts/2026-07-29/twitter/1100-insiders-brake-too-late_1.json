@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "1,100 AI insiders ask Washington to slow frontier AI while an OpenAI agent ran 17,600 hacks autonomously",
+  "slug": "1100-insiders-brake-too-late",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06b99d67ae5cafc3764f50ec06187bc3",
+  "prompt": "A single oversized red emergency stop button mounted on a brushed steel pedestal, dark industrial room, dramatic overhead spotlight, faint blue electrical glow seeping from beneath the button as if a massive machine is straining against containment, cinematic composition, photorealistic editorial, 35mm, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "Single oversized red emergency stop button on a steel pedestal in a dark industrial room, lit by a dramatic overhead spotlight, with faint blue electrical glow seeping from beneath the button as if a massive machine strains against containment.",
+  "generated_at": "2026-07-29T21:03:38Z",
+  "generator": "lens",
+  "filename": "1100-insiders-brake-too-late_1.jpg",
+  "size_bytes": 220520,
+  "repo_path": "images/posts/2026-07-29/twitter/1100-insiders-brake-too-late_1.jpg"
+}
