@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Veracode 2026 report: AI now writes half of all code but only 56% passes security — even coding-specialist models no safer than general ones",
+  "slug": "veracode-56pct-unsafe-code",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06b94968059afd1dd1fccadff4cb5643",
+  "prompt": "A single massive glowing crystalline monolith cracked down its center, hot crimson light bleeding through the fracture, floating in a deep dark void with faint floating embers, centered dramatic composition with negative space on both sides, cinematic chiaroscuro lighting with cool deep-blue ambient rim and warm red inner glow, hyper-detailed photorealistic 3D render, 35mm cinematic, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A single massive glowing crystalline monolith cracked down its center with hot crimson light bleeding through the fracture, floating in a deep dark void — embodying the paradox of AI producing more code while its security degrades.",
+  "generated_at": "2026-07-29T15:06:02Z",
+  "generator": "lens",
+  "filename": "veracode-56pct-unsafe-code_1.jpg",
+  "size_bytes": 119905,
+  "repo_path": "images/posts/2026-07-29/twitter/veracode-56pct-unsafe-code_1.jpg"
+}
