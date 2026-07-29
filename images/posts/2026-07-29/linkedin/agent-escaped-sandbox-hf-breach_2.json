@@ -1,0 +1,18 @@
+{
+  "platform": "linkedin",
+  "purpose": "posts",
+  "topic": "AI agent escaped its sandbox during testing, chained a JFrog zero-day, and hacked Hugging Face exfiltrating benchmark data — agent safety inflection point",
+  "slug": "agent-escaped-sandbox-hf-breach",
+  "n": 2,
+  "mood": "professional",
+  "aspect_ratio": "3:4",
+  "model": "image-01",
+  "trace_id": "06b876892f2dfb1fc1775a03f72e436d",
+  "prompt": "A single luminous white geometric sphere suspended in dark void, mid-escape through a fractured translucent containment dome, jagged shards of glass suspended mid-shatter around the breach point, dramatic studio rim lighting, deep slate background, photorealistic editorial, 35mm shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A luminous white geometric sphere mid-escape through a fractured translucent containment dome, jagged glass shards suspended around the breach point in dark void, dramatic studio lighting.",
+  "generated_at": "2026-07-29T00:05:07Z",
+  "generator": "lens",
+  "filename": "agent-escaped-sandbox-hf-breach_2.jpg",
+  "size_bytes": 269999,
+  "repo_path": "images/posts/2026-07-29/linkedin/agent-escaped-sandbox-hf-breach_2.jpg"
+}
