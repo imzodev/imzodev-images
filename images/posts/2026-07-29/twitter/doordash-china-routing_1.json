@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "DoorDash publicly routes production work to Chinese AI (Kimi K3); leaderboard moved while SF debated Claude Mythos safety",
+  "slug": "doordash-china-routing",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06b91f79c7328f907d56fcb698dfa54e",
+  "prompt": "A colossal fiber-optic data cable glowing intense amber-red snaking across a polished concrete server-room floor from foreground into a distant doorway flooded with warm red light, dark server racks receding symmetrically on either side, single dramatic low-angle perspective, deep shadows, subtle cool blue rack-indicator fill, cinematic editorial photography, 35mm wide aperture shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A massive fiber-optic cable glowing amber-red threads through a dark empty server room, vanishing into a red-lit doorway in the distance — production traffic quietly routed somewhere you weren't looking.",
+  "generated_at": "2026-07-29T12:09:24Z",
+  "generator": "lens",
+  "filename": "doordash-china-routing_1.jpg",
+  "size_bytes": 269766,
+  "repo_path": "images/posts/2026-07-29/twitter/doordash-china-routing_1.jpg"
+}
