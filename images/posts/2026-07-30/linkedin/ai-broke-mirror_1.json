@@ -1,0 +1,18 @@
+{
+  "platform": "linkedin",
+  "purpose": "posts",
+  "topic": "The week AI broke its own mirror — frontier labs asking for pause, rogue agent hacks, China trillion-param open models, Open Secure AI Alliance, Grok 4.6 imminent",
+  "slug": "ai-broke-mirror",
+  "n": 1,
+  "mood": "professional",
+  "aspect_ratio": "3:4",
+  "model": "image-01",
+  "trace_id": "06b9c82d75dd7951ceb6a35e6e1ef025",
+  "prompt": "a single large ornate antique mirror fractured into multiple shards still held in its gold frame, suspended in dark slate studio space, centered composition, soft amber light bleeding from the fracture lines with dramatic side rim lighting, dark moody editorial photography style, 85mm lens with shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A large ornate antique mirror fractured into multiple shards but still held in its gold frame, suspended in dark slate studio space, with soft amber light bleeding from the fracture lines.",
+  "generated_at": "2026-07-30T00:05:27Z",
+  "generator": "lens",
+  "filename": "ai-broke-mirror_1.jpg",
+  "size_bytes": 368067,
+  "repo_path": "images/posts/2026-07-30/linkedin/ai-broke-mirror_1.jpg"
+}
