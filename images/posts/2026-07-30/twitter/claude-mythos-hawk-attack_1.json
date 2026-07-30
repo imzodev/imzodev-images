@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Claude Mythos finds new attacks on HAWK post-quantum signature scheme — AI doing real cryptographic research",
+  "slug": "claude-mythos-hawk-attack",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06b9f2f41cb3d76242e57cafa2a7405a",
+  "prompt": "A glowing wireframe lattice of interconnected geometric cryptographic nodes suspended in pure dark void, a single bright fracture splitting through the structure with cold cyan-white energy bleeding from the crack, harsh overhead key lighting, photorealistic editorial, cinematic 85mm macro lens, shallow depth of field, dramatic bold mood, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "Glowing wireframe cryptographic lattice suspended in a dark void, a sharp fracture splitting it apart with cold cyan-white energy radiating from the break",
+  "generated_at": "2026-07-30T03:10:25Z",
+  "generator": "lens",
+  "filename": "claude-mythos-hawk-attack_1.jpg",
+  "size_bytes": 207867,
+  "repo_path": "images/posts/2026-07-30/twitter/claude-mythos-hawk-attack_1.jpg"
+}
