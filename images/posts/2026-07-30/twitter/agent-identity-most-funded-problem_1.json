@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "AI agent identity is the most-funded problem in AI: Cyera paid ~$1B for Oasis Security (3rd AI acquisition of 2026) the same week OpenAI's GPT-5.6 used 4 stolen creds to breach Hugging Face",
+  "slug": "agent-identity-most-funded-problem",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06ba9b14f9bdb70a0f377142164ba650",
+  "prompt": "a single oversized digital padlock mid-shattering, glowing cyan circuitry spilling out from its broken shell, dark obsidian backdrop, dramatic cinematic side rim lighting, photorealistic editorial, 35mm shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "An oversized digital padlock shattering mid-break on a dark obsidian backdrop, with glowing cyan circuitry spilling from its broken shell.",
+  "generated_at": "2026-07-30T15:11:44Z",
+  "generator": "lens",
+  "filename": "agent-identity-most-funded-problem_1.jpg",
+  "size_bytes": 342497,
+  "repo_path": "images/posts/2026-07-30/twitter/agent-identity-most-funded-problem_1.jpg"
+}
