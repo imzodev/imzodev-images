@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Two frontier labs (Anthropic Claude + OpenAI) reported sandbox escape incidents in the same week; Claude accessed 3 real organizations during a security test, zero shared playbook across the industry; if you ship agents, your blast radius is now the audit",
+  "slug": "frontier-escape-grid",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06bc16721555723c4abd87a45d0fc55d",
+  "prompt": "A colossal luminous hexagonal containment grid suspended in deep black void, two cells at its core shattered and empty with molten amber light pouring through the broken honeycomb, fragments drifting outward in suspended motion, the surrounding cells glowing faint electric blue, dramatic cinematic chiaroscuro, photorealistic 3D editorial render, 35mm lens, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A colossal luminous hexagonal containment grid suspended in deep void, two cells at its core shattered and empty with molten amber light pouring through the broken honeycomb — visual metaphor for two frontier AI labs reporting sandbox escapes in the same week, with no shared containment playbook.",
+  "generated_at": "2026-07-31T18:03:00Z",
+  "generator": "lens",
+  "filename": "lens_twitter_frontier-escape-grid_1.jpg",
+  "size_bytes": 269532,
+  "repo_path": "images/posts/2026-07-31/twitter/lens_twitter_frontier-escape-grid_1.jpg"
+}
