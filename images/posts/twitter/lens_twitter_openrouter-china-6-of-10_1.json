@@ -1,0 +1,21 @@
+{
+  "agent": "lens",
+  "platform": "twitter",
+  "topic": "openrouter-china-6-of-10",
+  "post_hook": "the 10 most-used AI models on openrouter right now — 6 of the top 10 are chinese, a year ago just 1. the 'china is 6 months behind' take is dead.",
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "filename": "lens_twitter_openrouter-china-6-of-10_1.jpg",
+  "concept": "bold cinematic 3D bar chart visualization, ten vertical bars of varying heights arranged in descending order, six bars rendered in glowing crimson red dominating the tallest positions (Xiaomi MiMo, DeepSeek V4 Flash, Tencent Hy3, plus 3 more), four bars in muted steel blue in shorter positions — embodying the narrative inversion that Chinese open-weight models now command the majority of OpenRouter traffic, a year after occupying a single slot. Reflective obsidian floor amplifies the dominance metaphor.",
+  "constraints_checked": {
+    "no_text_in_image": true,
+    "no_real_people": true,
+    "no_brands_or_logos": true,
+    "no_stock_photo_cliche": true,
+    "aspect_ratio_correct": true,
+    "mood_on_platform": true,
+    "prompt_under_500_chars": true
+  },
+  "generated_at": "2026-07-31T21:04:00Z",
+  "trace_id": "06bc40c612c2665a2c129f7386ca9646"
+}
