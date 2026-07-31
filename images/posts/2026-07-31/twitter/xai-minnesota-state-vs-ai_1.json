@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "xAI sues Minnesota over first US state AI nudification law",
+  "slug": "xai-minnesota-state-vs-ai",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06bb99dd95d9774a334656445d56a1ee",
+  "prompt": "a single polished wooden judge's gavel frozen mid-swing about to strike a flat black mirror surface, a fine electric-blue fracture crack spreading from the impact point glowing like circuitry beneath, deep void background, dramatic top-down rim lighting, cinematic dark editorial photography, 85mm portrait lens, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A polished wooden gavel frozen mid-swing about to strike a flat black mirror surface, with a fine electric-blue fracture crack spreading from the impact point glowing like circuitry beneath, on a deep void background with dramatic top-down rim lighting.",
+  "generated_at": "2026-07-31T09:15:39Z",
+  "generator": "lens",
+  "filename": "xai-minnesota-state-vs-ai_1.jpg",
+  "size_bytes": 228057,
+  "repo_path": "images/posts/2026-07-31/twitter/xai-minnesota-state-vs-ai_1.jpg"
+}
