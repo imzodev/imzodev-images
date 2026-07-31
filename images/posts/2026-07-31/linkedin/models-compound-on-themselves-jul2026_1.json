@@ -1,0 +1,18 @@
+{
+  "platform": "linkedin",
+  "purpose": "posts",
+  "topic": "AI models compounding on themselves (Sol self-rewriting kernels, Mythos breaking HAWK, multimodal blitz)",
+  "slug": "models-compound-on-themselves-jul2026",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "3:4",
+  "model": "image-01",
+  "trace_id": "06bb199aaac4a734cd22c550914c49a1",
+  "prompt": "A glowing ouroboros formed from intricate circuit board traces and microchip pathways, coiled into a perfect circle with its own tail dissolving into its open jaw, deep matte black void background, single electric-cyan rim light tracing the serpent's body, soft volumetric bloom around the edges, dramatic negative space in the lower third, cinematic editorial photography, 35mm, professional dark aesthetic, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A glowing ouroboros of circuit traces coiling into its own jaw on a dark background, symbolizing self-improving AI.",
+  "generated_at": "2026-07-31T00:05:09Z",
+  "generator": "lens",
+  "filename": "models-compound-on-themselves-jul2026_1.jpg",
+  "size_bytes": 274728,
+  "repo_path": "images/posts/2026-07-31/linkedin/models-compound-on-themselves-jul2026_1.jpg"
+}
