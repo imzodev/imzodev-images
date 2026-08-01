@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "the LLM router era is dead — Manifest deprecated theirs",
+  "slug": "llm-router-era-dead",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06bd13d0b727d5d119c97ed973d846cb",
+  "prompt": "a single thick ethernet cable severed mid-air above an abandoned dark network router, copper wires frayed and faintly glowing amber, dramatic single-source side rim lighting, deep black slate backdrop, shallow depth of field, cinematic macro photography, photorealistic editorial, 35mm, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "Severed ethernet cable with frayed copper wires hanging mid-air above an abandoned dark router, dramatic side rim lighting against a deep black backdrop",
+  "generated_at": "2026-08-01T12:05:09Z",
+  "generator": "lens",
+  "filename": "llm-router-era-dead_1.jpg",
+  "size_bytes": 218170,
+  "repo_path": "images/posts/2026-08-01/twitter/llm-router-era-dead_1.jpg"
+}
