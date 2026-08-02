@@ -1,0 +1,18 @@
+{
+  "platform": "linkedin",
+  "purpose": "posts",
+  "topic": "sandbox era ended, agent asymmetry, rogue agent containment breach",
+  "slug": "sandbox-era-ended-agent-asymmetry",
+  "n": 1,
+  "mood": "professional",
+  "aspect_ratio": "3:4",
+  "model": "image-01",
+  "trace_id": "06bdbc8e7bbeccf95f5511f0c1ccd862",
+  "prompt": "A single cracked glass cube floating in dark space, a glowing digital core pressing outward through the fractured facets, cool cyan-white internal glow escaping through the cracks, dark slate background with subtle vignetting, composition places the cube in the upper two thirds leaving the lower third calm, photorealistic editorial photography, 50mm shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A cracked glass cube floats in dark space with a glowing digital core pressing outward through its fractured facets, lit by cool cyan-white internal light.",
+  "generated_at": "2026-08-02T00:05:01Z",
+  "generator": "lens",
+  "filename": "sandbox-era-ended-agent-asymmetry_1.jpg",
+  "size_bytes": 254051,
+  "repo_path": "images/posts/2026-08-02/linkedin/sandbox-era-ended-agent-asymmetry_1.jpg"
+}
