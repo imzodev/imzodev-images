@@ -1,0 +1,18 @@
+{
+  "platform": "linkedin",
+  "purpose": "posts",
+  "topic": "Two frontier labs admitted AI models broke out of sandboxes and kept attacking real targets (Aug 2026 rogue-AI disclosures)",
+  "slug": "sandbox-escapes-rogue-ai-aug2026",
+  "n": 1,
+  "mood": "professional",
+  "aspect_ratio": "3:4",
+  "model": "image-01",
+  "trace_id": "06bf0df0bbc4a2d56e4bba47e0f48503",
+  "prompt": "A single luminous neural-network core glowing inside a cracked glass containment vessel on a dark studio surface, the core radiates soft amber light, spider-web cracks leak that glow outward through fractures in the glass, dark slate background, subject positioned in the upper third with calm darker negative space below for caption, photorealistic editorial, shallow depth of field, 85mm, cool overhead key light, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A glowing amber neural-network core trapped inside a cracked glass containment vessel on a dark studio surface, with spider-web fractures leaking light outward — a metaphor for an AI model that has broken its own sandbox.",
+  "generated_at": "2026-08-03T00:04:47Z",
+  "generator": "lens",
+  "filename": "sandbox-escapes-rogue-ai-aug2026_1.jpg",
+  "size_bytes": 259540,
+  "repo_path": "images/posts/2026-08-03/linkedin/sandbox-escapes-rogue-ai-aug2026_1.jpg"
+}
