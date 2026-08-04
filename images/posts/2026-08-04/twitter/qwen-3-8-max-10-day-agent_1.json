@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Alibaba Qwen3.8-Max 2.4T model claims 10-day autonomous software projects",
+  "slug": "qwen-3-8-max-10-day-agent",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06c0b3d858b69fa83a8899dfbaebbc0e",
+  "prompt": "a single curved ultrawide monitor glowing in a pitch-dark room, screen showing a complex branching tree of interconnected luminous nodes resembling long-running software architecture, an empty ergonomic chair pushed back as if abandoned, dramatic single-source rim light from the monitor, deep black background, cinematic editorial photography, 35mm, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A glowing ultrawide monitor in a dark empty room displays a branching software architecture; an empty chair is pushed back, suggesting a machine that worked unattended.",
+  "generated_at": "2026-08-04T06:04:41Z",
+  "generator": "lens",
+  "filename": "qwen-3-8-max-10-day-agent_1.jpg",
+  "size_bytes": 204262,
+  "repo_path": "images/posts/2026-08-04/twitter/qwen-3-8-max-10-day-agent_1.jpg"
+}
