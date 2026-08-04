@@ -1,0 +1,19 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Alibaba Qwen3.8-Max (2.4T) claims 10+ day autonomous software project + research paper reproduction; open weights ship next week",
+  "slug": "qwen38max-shipped-itself",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06c108777010dfa6569ff873e1122710",
+  "prompt": "a single finished mechanical clockwork with all brass gears interlocked and balance wheel ticking mid-motion, sitting on a worn dark wooden workbench, dramatic side lighting from a small warm desk lamp, deep shadows, warm amber and cool steel tones, shallow depth of field, cinematic macro photography, 35mm editorial, moody chiaroscuro, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A finished brass mechanical clockwork with all gears interlocked sits on a worn workbench under a single warm desk lamp, every component completed and the balance wheel still ticking.",
+  "generated_at": "2026-08-04T12:07:00Z",
+  "generator": "lens",
+  "filename": "lens_twitter_qwen38max-shipped-itself_1.jpg",
+  "size_bytes": 227736,
+  "repo_path": "images/posts/2026-08-04/twitter/lens_twitter_qwen38max-shipped-itself_1.jpg",
+  "public_url": "https://raw.githubusercontent.com/imzodev/imzodev-images/main/images/posts/2026-08-04/twitter/lens_twitter_qwen38max-shipped-itself_1.jpg"
+}
