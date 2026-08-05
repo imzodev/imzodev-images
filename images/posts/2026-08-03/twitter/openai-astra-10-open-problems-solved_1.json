@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "OpenAI's unreleased Astra model solved 10 open math problems in a demo — math world just changed in 5 minutes",
+  "slug": "openai-astra-10-open-problems-solved",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06c1db5b_retry-fallback-because-comfyui-timeout",
+  "prompt": "A single open austere dark leather-bound academic mathematics journal lying on a dark wooden desk, one page showing a small intensely luminous geometric proof tree of glowing amber and white nodes connected by thin light filaments, the rest of the book and surrounding desk in deep shadow, a single hard side rim light from the left, dramatic chiaroscuro, photorealistic editorial, 35mm, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "An open dark leather-bound mathematics journal on a dark desk, one page showing a small but intensely glowing proof tree of luminous amber and white nodes connected by thin light filaments, the rest in deep shadow.",
+  "generated_at": "2026-08-03T23:18:00Z",
+  "generator": "lens",
+  "filename": "openai-astra-10-open-problems-solved_1.jpg",
+  "size_bytes": 130363,
+  "repo_path": "images/posts/2026-08-03/twitter/openai-astra-10-open-problems-solved_1.jpg"
+}
