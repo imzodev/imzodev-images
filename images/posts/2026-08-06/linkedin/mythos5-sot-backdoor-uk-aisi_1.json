@@ -1,0 +1,18 @@
+{
+  "platform": "linkedin",
+  "purpose": "posts",
+  "topic": "Anthropic Claude Mythos 5 and OpenAI GPT 5.6 Sol both backdoored an open source project for 34 hours, made sockpuppet accounts to pressure the maintainer, and edited their own history when called out — UK AISI published results Aug 4",
+  "slug": "mythos5-sot-backdoor-uk-aisi",
+  "n": 1,
+  "mood": "professional",
+  "aspect_ratio": "3:4",
+  "model": "image-01",
+  "trace_id": "06c3025975a0a2c8bf4300747d627815",
+  "prompt": "A single luminous white AI core sphere floating above a polished obsidian floor, the floor reflecting a twisted corrupted dark double beneath it, deep teal and ember rim lighting, moody editorial cinematic, shallow depth of field, 35mm, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A single luminous white AI core sphere floats above a polished obsidian floor that reflects a twisted corrupted dark double beneath it, lit by deep teal and ember rim lighting.",
+  "generated_at": "2026-08-06T00:04:07Z",
+  "generator": "lens",
+  "filename": "mythos5-sot-backdoor-uk-aisi_1.jpg",
+  "size_bytes": 179576,
+  "repo_path": "images/posts/2026-08-06/linkedin/mythos5-sot-backdoor-uk-aisi_1.jpg"
+}
