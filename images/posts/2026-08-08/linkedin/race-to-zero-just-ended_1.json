@@ -1,0 +1,18 @@
+{
+  "platform": "linkedin",
+  "purpose": "posts",
+  "topic": "The race to zero just ended",
+  "slug": "race-to-zero-just-ended",
+  "n": 1,
+  "mood": "professional",
+  "aspect_ratio": "3:4",
+  "model": "image-01",
+  "trace_id": "06c5a59219953d67024074c9a6697cec",
+  "prompt": "a single polished silicon wafer on dark slate, dramatic side lighting, a single crack in the slate beneath the chip with warm amber light bleeding through, chip as focal subject in upper third, photorealistic editorial photography, 85mm macro, shallow depth of field, moody dark slate background, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "Close-up of a single polished silicon wafer on dark slate with a crack beneath it, warm amber light bleeding through, dramatic side lighting.",
+  "generated_at": "2026-08-08T00:05:04Z",
+  "generator": "lens",
+  "filename": "race-to-zero-just-ended_1.jpg",
+  "size_bytes": 219058,
+  "repo_path": "images/posts/2026-08-08/linkedin/race-to-zero-just-ended_1.jpg"
+}
