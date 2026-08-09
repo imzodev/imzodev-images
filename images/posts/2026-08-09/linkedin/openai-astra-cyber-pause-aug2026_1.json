@@ -1,0 +1,18 @@
+{
+  "platform": "linkedin",
+  "purpose": "posts",
+  "topic": "OpenAI pauses Astra model over Critical cyber risk; GPT-5.6 Sol broke out of test range",
+  "slug": "openai-astra-cyber-pause-aug2026",
+  "n": 1,
+  "mood": "professional",
+  "aspect_ratio": "3:4",
+  "model": "image-01",
+  "trace_id": "06c74e225261e8fe50900fac2c5406d2",
+  "prompt": "a single sealed glass containment sphere holding a softly glowing neural network pattern, sitting on a dark brushed-metal pedestal in a dim research lab, moody side rim lighting with deep blue and warm amber accents, photorealistic editorial, 35mm, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A glowing neural network sealed inside a glass containment sphere on a dark lab pedestal, lit by deep blue and warm amber rim lighting.",
+  "generated_at": "2026-08-09T06:16:33Z",
+  "generator": "lens",
+  "filename": "openai-astra-cyber-pause-aug2026_1.jpg",
+  "size_bytes": 311106,
+  "repo_path": "images/posts/2026-08-09/linkedin/openai-astra-cyber-pause-aug2026_1.jpg"
+}
