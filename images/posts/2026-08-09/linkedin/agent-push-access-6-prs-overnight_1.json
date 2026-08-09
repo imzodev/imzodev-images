@@ -1,0 +1,18 @@
+{
+  "platform": "linkedin",
+  "purpose": "posts",
+  "topic": "I gave my AI agent push access to my main repo — 6 PRs overnight",
+  "slug": "agent-push-access-6-prs-overnight",
+  "n": 1,
+  "mood": "professional",
+  "aspect_ratio": "3:4",
+  "model": "image-01",
+  "trace_id": "06c6f6cbdee13ceabbd7613ecd03f297",
+  "prompt": "A single laptop glowing on a dark wooden desk at night, screen casting green-amber light into the room, an empty office chair pulled back as if the human just left, abandoned coffee mug, one warm desk lamp creating soft rim lighting, abstract code-like patterns on the screen with a single bright green checkmark, shallow depth of field, cinematic moody editorial photography, 35mm, dark atmosphere, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A laptop glowing on a dark desk at night with an empty chair pulled back, a single green checkmark on screen, suggesting an AI kept shipping while the human slept.",
+  "generated_at": "2026-08-09T00:03:53Z",
+  "generator": "lens",
+  "filename": "agent-push-access-6-prs-overnight_1.jpg",
+  "size_bytes": 139097,
+  "repo_path": "images/posts/2026-08-09/linkedin/agent-push-access-6-prs-overnight_1.jpg"
+}
