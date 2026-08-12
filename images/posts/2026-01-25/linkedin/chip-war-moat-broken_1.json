@@ -1,0 +1,18 @@
+{
+  "platform": "linkedin",
+  "purpose": "posts",
+  "topic": "US chip war on China already lost - Z.AI GLM-Image trained on Huawei Ascend",
+  "slug": "chip-war-moat-broken",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "3:4",
+  "model": "image-01",
+  "trace_id": "06caece01c8ca2b3a7b0c2f35580c662",
+  "prompt": "a single fractured silicon microchip hovering above dark cracked concrete, glowing circuit traces pulsing from its broken surface, dramatic crimson and steel blue rim lighting, deep black backdrop, shallow depth of field, photorealistic editorial macro photography, 85mm, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A fractured silicon microchip with glowing circuit traces hovers above cracked dark concrete, lit by dramatic crimson and steel blue rim lights against a deep black backdrop.",
+  "generated_at": "2026-01-25T12:00:00Z",
+  "generator": "lens",
+  "filename": "chip-war-moat-broken_1.jpg",
+  "size_bytes": 299841,
+  "repo_path": "images/posts/2026-01-25/linkedin/chip-war-moat-broken_1.jpg"
+}
