@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Everyone misread OpenAI's gpt-5.6-cyber stat. 95% exploit-chains-completed sounds like a hacking benchmark; it's actually a refusal rate — the model just refuses less. Trained to engage, not excel.",
+  "slug": "openai-gpt56-cyber-refusal-misread",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06cce5b5a8ac7707967a857b04a521ef",
+  "prompt": "A single tall crimson threshold indicator fully illuminated, glowing blood-red against a deep black void, the visual grammar of permission and engagement rather than capability, dramatic underlighting, deep surrounding shadows, photorealistic editorial still life, 35mm, shallow depth of field, bold high contrast, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A single fully illuminated crimson threshold indicator glowing against a deep black void — visually ambiguous between achievement score and permission-to-engage, mirroring the misread OpenAI refusal-rate stat.",
+  "generated_at": "2026-08-13T12:04:00Z",
+  "generator": "lens",
+  "filename": "openai-gpt56-cyber-refusal-misread_1.jpg",
+  "size_bytes": 99254,
+  "repo_path": "images/posts/2026-08-13/twitter/openai-gpt56-cyber-refusal-misread_1.jpg"
+}
