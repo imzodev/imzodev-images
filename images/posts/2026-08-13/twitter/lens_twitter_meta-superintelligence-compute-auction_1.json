@@ -1,0 +1,23 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Meta publishes 'superintelligence for everyone' manifesto the same day it buries a compute auction in the fine print — the open-weights run on a single 4090, but 'free AI' still costs whatever you win the bid for (The Atlantic caught it)",
+  "slug": "meta-superintelligence-compute-auction",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06cd641e6e21ea5034d1aec1eb665691",
+  "prompt": "an ornate golden gift box with a luxurious satin bow, half-open on a dark polished surface, inside reveals a wooden auction gavel resting on rich red velvet, dramatic single key light from the side, deep cinematic shadows, moody editorial product photography, hyper-realistic still life, 85mm lens, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "concept_rationale": "The tweet is a bait-and-switch: 'superintelligence for everyone' (the gift) hides a compute auction (the gavel). One image, one visual paradox: an ornate golden gift box with a luxurious satin bow, half-open, revealing a wooden auction gavel resting on red velvet inside. The box is the manifesto — gilded, opulent, built to make you reach. The gavel is the auction clause — the thing that actually decides who gets the compute. Chiaroscuro key light + 85mm shallow DOF + dark polished surface keeps the visual scroll-stopping on Twitter (16:9, bold mood). Deliberately no screen, no paper, no fine-print, no Meta logo — the contradiction is structural, not literal, and rendering any of those literally would either be text (forbidden) or a brand mark (forbidden). The metaphor holds: the gift is real, and so is the gavel, and the second is what determines the first.",
+  "alt_text": "An ornate golden gift box with a luxurious satin bow sits half-open on a dark polished surface, revealing a wooden auction gavel resting on rich red velvet inside, lit by a single dramatic side key light.",
+  "generated_at": "2026-08-13T21:03:21Z",
+  "generator": "lens",
+  "filename": "lens_twitter_meta-superintelligence-compute-auction_1.jpg",
+  "size_bytes": 205558,
+  "local_path": "imzodev-images/lens_twitter_meta-superintelligence-compute-auction_1.jpg",
+  "repo_path": "images/posts/2026-08-13/twitter/lens_twitter_meta-superintelligence-compute-auction_1.jpg",
+  "public_url": "https://raw.githubusercontent.com/imzodev/imzodev-images/main/images/posts/2026-08-13/twitter/lens_twitter_meta-superintelligence-compute-auction_1.jpg",
+  "github_repo": "imzodev/imzodev-images",
+  "branch": "main"
+}
