@@ -1,0 +1,18 @@
+{
+  "platform": "linkedin",
+  "purpose": "posts",
+  "topic": "60 Claude subagents push Riemann zeta bound from 41.6% to 67.2% in 36 hours",
+  "slug": "60-subagents-riemann-weekend",
+  "n": 1,
+  "mood": "professional",
+  "aspect_ratio": "3:4",
+  "model": "image-01",
+  "trace_id": "06cc3cc8458f55cc86d8f601dec68272",
+  "prompt": "A single luminous constellation of small golden lights converging on one brighter central node, suspended in deep indigo darkness, faint luminous threads linking the outer satellites, soft warm amber haze near the bottom edge, minimalist editorial science aesthetic, photorealistic cinematic shallow depth of field, 35mm, vertical composition with the bright focal point in the upper third and a clean dark base, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A luminous constellation of golden lights converging on a brighter central node, suspended in deep indigo darkness with a warm amber haze at the bottom edge.",
+  "generated_at": "2026-08-13T00:03:48Z",
+  "generator": "lens",
+  "filename": "60-subagents-riemann-weekend_1.jpg",
+  "size_bytes": 210456,
+  "repo_path": "images/posts/2026-08-13/linkedin/60-subagents-riemann-weekend_1.jpg"
+}
