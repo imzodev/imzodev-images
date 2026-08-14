@@ -1,0 +1,21 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "OpenAI paused Astra for autonomously exploiting zero-days, then shipped gpt-5.6-cyber two days later — a sibling model trained to refuse LESS in the same cyber domain. The contradiction collapses 'we take safety seriously' into a meaningless sentence.",
+  "slug": "openai-astra-vs-cyber-contradiction",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06ce8caf0540a7396062abb3bfe9680a",
+  "prompt": "two identical heavy steel doors in a dark industrial corridor, left door sealed shut with chains under harsh red emergency lighting, right door flung wide open with blinding white light pouring out, concrete walls, dramatic noir cinematic lighting, photorealistic editorial, 35mm, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "Two identical heavy steel doors in a dark industrial corridor — left door sealed shut with chains under harsh red emergency lighting, right door flung wide open with blinding white light pouring out — visualizing the same-domain, opposite-verdict contradiction.",
+  "generated_at": "2026-08-14T18:08:50Z",
+  "generator": "lens",
+  "filename": "lens_twitter_openai-astra-vs-cyber-contradiction_1.jpg",
+  "size_bytes": 297780,
+  "dimensions": "1280x720",
+  "repo_path": "images/posts/2026-08-14/twitter/lens_twitter_openai-astra-vs-cyber-contradiction_1.jpg",
+  "concept": "Two identical steel doors, opposite states: one sealed under red emergency light (Astra paused for zero-day risk), one flung open spilling white light (gpt-5.6-cyber shipped two days later). Visualizes the contradiction at the heart of the tweet.",
+  "tweet_anchor": "astra paused for zero-days / gpt-5.6-cyber shipped 48h later / refuse less same domain / safety is now a meaningless sentence"
+}
