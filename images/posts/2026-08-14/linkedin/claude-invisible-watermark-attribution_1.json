@@ -1,0 +1,18 @@
+{
+  "platform": "linkedin",
+  "purpose": "posts",
+  "topic": "Anthropic invisible AI watermarks - attribution theater, not accountability",
+  "slug": "claude-invisible-watermark-attribution",
+  "n": 1,
+  "mood": "professional",
+  "aspect_ratio": "3:4",
+  "model": "image-01",
+  "trace_id": "06cd8e5a7ad9e619f321557d789d8c54",
+  "prompt": "A single fountain pen lifted just above a half-written cream page on a dark walnut desk, the nib caught mid-stroke, a faint translucent silhouette of a second hand hovering ghost-like above the page leaving a barely visible imprint in the paper, soft warm side light, deep brown background, contemplative editorial photography, 85mm, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A contemplative scene of a fountain pen lifted mid-stroke above a hand-written page on a dark walnut desk, with a faint translucent silhouette of a second hand hovering ghost-like above the paper, leaving a barely visible imprint in the page.",
+  "generated_at": "2026-08-14T00:04:08Z",
+  "generator": "lens",
+  "filename": "claude-invisible-watermark-attribution_1.jpg",
+  "size_bytes": 179912,
+  "repo_path": "images/posts/2026-08-14/linkedin/claude-invisible-watermark-attribution_1.jpg"
+}
