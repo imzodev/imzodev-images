@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Two trillion-parameter AI model launches on the same day: Grok 4.6 (xAI/SpaceXAI) and DeepSeek V4-Pro. The agent era arrives.",
+  "slug": "two-trillion-same-day",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06cd8e2f7da1cebec07e2c18c6d8ec5a",
+  "prompt": "Two colossal glowing data-core orbs suspended side by side in vast cosmic darkness, left orb radiating warm amber-copper filaments, right orb radiating cool electric-cyan filaments, each trailing luminous energy wisps frozen mid-motion, subtle volumetric haze, monumental scale, dramatic cinematic rim lighting, photorealistic sci-fi editorial, 35mm wide, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "Two colossal glowing data-core orbs side by side in cosmic darkness, warm amber on the left and cool cyan on the right, each trailing luminous energy wisps. Monumental sci-fi editorial composition.",
+  "generated_at": "2026-08-14T00:03:24Z",
+  "generator": "lens",
+  "filename": "two-trillion-same-day_1.jpg",
+  "size_bytes": 278728,
+  "repo_path": "images/posts/2026-08-14/twitter/two-trillion-same-day_1.jpg"
+}
