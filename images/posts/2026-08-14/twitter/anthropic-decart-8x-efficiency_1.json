@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Anthropic B Decart acquisition — 8x inference efficiency timed to IPO",
+  "slug": "anthropic-decart-8x-efficiency",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06ce0cd13bdd9df8321f470d105f3229",
+  "prompt": "a single small brilliantly glowing golden algorithm node floating at the center of a vast cold-blue dimly-lit server-farm corridor, the small node radiating far more light than the entire room of bulky GPU hardware racks lining the walls, dramatic warm-cool color contrast, deep black ceiling, cinematic telephoto composition, shallow depth of field, editorial photography, 35mm, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A single brilliant golden algorithm node glows far brighter than the vast cold-blue server farm around it, visualizing efficiency outshining brute-force compute.",
+  "generated_at": "2026-08-14T09:03:47Z",
+  "generator": "lens",
+  "filename": "anthropic-decart-8x-efficiency_1.jpg",
+  "size_bytes": 227008,
+  "repo_path": "images/posts/2026-08-14/twitter/anthropic-decart-8x-efficiency_1.jpg"
+}
