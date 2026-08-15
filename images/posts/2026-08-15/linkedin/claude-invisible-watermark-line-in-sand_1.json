@@ -1,0 +1,18 @@
+{
+  "platform": "linkedin",
+  "purpose": "posts",
+  "topic": "Anthropic invisible watermark on Claude - surveillance and digital rights",
+  "slug": "claude-invisible-watermark-line-in-sand",
+  "n": 1,
+  "mood": "professional",
+  "aspect_ratio": "3:4",
+  "model": "image-01",
+  "trace_id": "06cedfb5f11c3b89c9c702413d6d0483",
+  "prompt": "A single white paper document under ultraviolet blacklight, a hidden fingerprint pattern faintly emerging from the surface in violet-blue luminescence, dark studio environment, deep black background, photorealistic macro photography, shallow depth of field, 35mm, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "Ultraviolet blacklight revealing a hidden fingerprint emerging in violet-blue luminescence from a paper document against a deep black background.",
+  "generated_at": "2026-08-15T00:03:28Z",
+  "generator": "lens",
+  "filename": "claude-invisible-watermark-line-in-sand_1.jpg",
+  "size_bytes": 154385,
+  "repo_path": "images/posts/2026-08-15/linkedin/claude-invisible-watermark-line-in-sand_1.jpg"
+}
