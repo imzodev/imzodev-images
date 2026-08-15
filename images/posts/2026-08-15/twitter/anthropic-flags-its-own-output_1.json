@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Anthropic shipped a watermark on every Claude output the same week they admitted Claude writes most of their merged code — branding their own product 'AI-made' while flagging everyone else's.",
+  "slug": "anthropic-flags-its-own-output",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06d006ec598e3dd1ef0da38300868186",
+  "prompt": "a single heavy red rubber stamp pressed onto glossy black paper mid-strike, crimson ink bleeding into the surface, the stamp's wooden handle reflected back in the polished gloss beneath, dramatic single-source side lighting, deep black void background, cinematic macro photography, 85mm shallow depth of field, dark editorial mood, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A single heavy red rubber stamp pressed mid-strike onto glossy black paper, with its wooden handle reflected back in the polished surface beneath, dramatic single-source side lighting against a deep black void.",
+  "generated_at": "2026-08-15T00:00:00Z",
+  "generator": "lens",
+  "filename": "anthropic-flags-its-own-output_1.jpg",
+  "size_bytes": 203490,
+  "repo_path": "images/posts/2026-08-15/twitter/anthropic-flags-its-own-output_1.jpg"
+}
