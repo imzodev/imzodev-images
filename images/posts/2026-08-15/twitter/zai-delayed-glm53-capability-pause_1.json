@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "z.ai delayed GLM-5.3 weights — capability overtook safety",
+  "slug": "zai-delayed-glm53-capability-pause",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06cfdcc54ffc8bcb9084a419978607f1",
+  "prompt": "a single overpowered industrial server rack with an amber-glowing neural core visibly cracking through frosted containment glass, dark datacenter aisle, dramatic side rim lighting in cool steel blue contrasting the warm amber core, cinematic sci-fi photography, shallow depth of field, 35mm anamorphic lens, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A single dark server rack in a dim datacenter aisle, its frosted containment glass fractured from the inside by an amber-glowing neural core, cool steel-blue rim lighting contrasting the warm amber breakthrough.",
+  "generated_at": "2026-08-15T18:03:52Z",
+  "generator": "lens",
+  "filename": "zai-delayed-glm53-capability-pause_1.jpg",
+  "size_bytes": 243311,
+  "repo_path": "images/posts/2026-08-15/twitter/zai-delayed-glm53-capability-pause_1.jpg"
+}
