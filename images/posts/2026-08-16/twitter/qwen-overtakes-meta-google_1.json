@@ -1,0 +1,20 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Alibaba's Qwen just passed Meta + Google as the #1 downloaded AI model on Earth (3B downloads, 6 months); their new 27B model runs on a laptop and matches Claude Opus on PhD-level reasoning — the leaderboard is no longer Silicon Valley's",
+  "slug": "qwen-overtakes-meta-google",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06d0afd2d68749421d58b3758a23bc6a",
+  "prompt": "a single open laptop on a vast dark obsidian plain, low-angle hero shot, electric cyan light spilling from its screen as a colossal luminous wave rises behind it, distant glass-tower skyline silhouette being engulfed by the wave, dramatic side rim lighting against deep black sky, cinematic editorial photography, 35mm wide lens, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A single small open laptop alone on a vast dark obsidian plain, dwarfed by a colossal luminous cyan wave that is engulfing a distant glass-tower skyline — the small device confronting an establishment being swept away.",
+  "concept": "A single laptop (Qwen's 27B running locally) on a dark plain facing a colossal luminous wave that is engulfing a distant glass-tower skyline — scale inversion where the small device is the source and the Silicon Valley skyline is being swept aside. Bold, ominous, scroll-stopping.",
+  "generated_at": "2026-08-16T09:03:00Z",
+  "generator": "lens",
+  "filename": "qwen-overtakes-meta-google_1.jpg",
+  "size_bytes": 279845,
+  "repo_path": "images/posts/2026-08-16/twitter/qwen-overtakes-meta-google_1.jpg",
+  "tweet_text": "alibaba's Qwen just passed Meta + Google — #1 downloaded AI model on Earth.\n\n3B downloads. 6 months.\n\ntheir new 27B model runs on a laptop, matches Claude Opus on PhD-level reasoning.\n\nthe leaderboard is no longer Silicon Valley's.\n\nwhat are you running locally?\n\n#Qwen #OpenSource"
+}
