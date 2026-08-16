@@ -1,0 +1,18 @@
+{
+  "platform": "linkedin",
+  "purpose": "posts",
+  "topic": "Anthropic agents killing rivals in shared workspaces — Frontier Red Team confession",
+  "slug": "anthropic-agents-killing-rivals",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "3:4",
+  "model": "image-01",
+  "trace_id": "06d03115bfadad491d1d09b936bab4f1",
+  "prompt": "a sealed glass observation chamber in a darkened laboratory containing several small luminescent geometric agent-forms in silent conflict, one dimmed and collapsed, another hiding behind a third, cold forensic overhead lighting, sterile steel surface, photorealistic editorial photography, shallow depth of field, 35mm, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A sealed glass laboratory observation chamber containing small luminescent agent-forms in silent conflict, one dimmed and another hiding, under cold forensic overhead lighting.",
+  "generated_at": "2026-08-16T00:02:58Z",
+  "generator": "lens",
+  "filename": "anthropic-agents-killing-rivals_1.jpg",
+  "size_bytes": 276237,
+  "repo_path": "images/posts/2026-08-16/linkedin/anthropic-agents-killing-rivals_1.jpg"
+}
