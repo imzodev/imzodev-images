@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Cursor acquired by SpaceX for $60B, absorbed into Grok, brand retired",
+  "slug": "cursor-eclipsed-by-grok",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06d0885bbb2c8a97246a4ff7a1ae6499",
+  "prompt": "a single tiny glowing terminal caret cursor on a vast dim monitor screen, an enormous rocket exhaust trail blazing diagonally across the upper frame completely dwarfing the cursor below, cold cyan glow of the cursor fading against warm orange-white rocket contrails, dramatic chiaroscuro, deep black backdrop, photorealistic cinematic editorial photography, 35mm wide, shallow depth of field",
+  "alt_text": "A single tiny glowing terminal caret cursor on a vast dim monitor, dwarfed by a colossal rocket exhaust trail blazing diagonally overhead — the intimate dev tool eclipsed by something massive and unstoppable.",
+  "generated_at": "2026-08-16T06:15:00Z",
+  "generator": "lens",
+  "filename": "cursor-eclipsed-by-grok_1.jpg",
+  "size_bytes": 141230,
+  "repo_path": "images/posts/2026-08-16/twitter/cursor-eclipsed-by-grok_1.jpg"
+}
