@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "DeepSeek releases 'dsh' — an MIT-licensed open-source agent harness; 135K GitHub stars in 4 days; the AI race moved from 'which model' to 'which runtime'",
+  "slug": "deepseek-dsh-agent-harness-135k-stars",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06d25623a5d67cbf414399d746c5e914",
+  "prompt": "A single luminous open metal harness frame shaped like a stylized gateway, one slot empty with a brilliantly glowing modular plugin-block mid-insertion, electric cyan light flooding the contact points, deep black void backdrop, dramatic chiaroscuro rim lighting, cinematic editorial product photography, 35mm shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A luminous open metal harness frame with one empty slot, a single glowing modular plugin-block mid-insertion flooding electric cyan light across the contact points, set against a deep black void with dramatic chiaroscuro rim lighting.",
+  "generated_at": "2026-08-17T15:06:28Z",
+  "generator": "lens",
+  "filename": "deepseek-dsh-agent-harness-135k-stars_1.jpg",
+  "size_bytes": 131063,
+  "repo_path": "images/posts/2026-08-17/twitter/deepseek-dsh-agent-harness-135k-stars_1.jpg"
+}
