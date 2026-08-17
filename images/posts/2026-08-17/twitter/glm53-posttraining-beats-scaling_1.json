@@ -1,0 +1,20 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Chinese open-weight model GLM-5.3 edged out Anthropic's Mythos 5 on cybersecurity benchmarks via post-training, not scaling — the moat moved from parameters to the training loop.",
+  "slug": "glm53-posttraining-beats-scaling",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06d182c9a287ff084f3c0f889d061cea",
+  "prompt": "A single white-hot glowing spiral coil of wire suspended in the center of a vast dark industrial chamber, the coil radiating intense warm amber light as the sole light source, massive cold machinery receding into deep black shadow background, dramatic chiaroscuro, cinematic macro photography, 35mm, shallow depth of field, bold high contrast, photorealistic editorial, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A single white-hot spiral coil of wire suspended in a vast dark industrial chamber, radiating warm amber light as the sole source — small focused heat outshining massive cold machinery in shadow, mirroring how a focused training loop outranks brute scale.",
+  "generated_at": "2026-08-17T00:04:00Z",
+  "generator": "lens",
+  "filename": "glm53-posttraining-beats-scaling_1.jpg",
+  "size_bytes": 172205,
+  "dimensions": "1280x720",
+  "tweet_anchor": "post-training > scaling / the moat moved / the moat was never parameters / it was always the training loop",
+  "concept": "A single white-hot spiral coil as the sole light source in a vast dark industrial chamber — the focused training loop (small, bright) visually outperforming massive cold machinery (scale) in the surrounding shadow."
+}
