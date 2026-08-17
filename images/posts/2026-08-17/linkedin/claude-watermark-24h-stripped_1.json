@@ -1,0 +1,18 @@
+{
+  "platform": "linkedin",
+  "purpose": "posts",
+  "topic": "Anthropic's invisible Claude watermark was stripped by open-source Anthropies in under 24 hours; compliance theater, not security — the real moat is the work, not the lock.",
+  "slug": "claude-watermark-24h-stripped",
+  "n": 1,
+  "mood": "professional",
+  "aspect_ratio": "3:4",
+  "model": "image-01",
+  "trace_id": "06d182b97b437204207af423067b72b6",
+  "prompt": "A single ornate antique brass padlock shattering mid-burst, its metal body dissolving into a rising column of luminous golden particles and fragmented shards, centered composition against a deep charcoal void with subtle warm vignette, generous calm negative space reserved in the lower third, single dramatic key light from upper right with warm amber rim tones and deep chiaroscuro, premium photorealistic cinematic editorial dark mood, 85mm macro lens, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "An ornate heraldic shield of bronze erupting with golden sparks and crystalline shards against a black void; lower third calm and uncluttered for caption overlay — metaphor for the lock dissolving while the work endures.",
+  "generated_at": "2026-08-17T00:05:04Z",
+  "generator": "lens",
+  "filename": "claude-watermark-24h-stripped_1.jpg",
+  "size_bytes": 311586,
+  "repo_path": "images/posts/2026-08-17/linkedin/claude-watermark-24h-stripped_1.jpg"
+}
