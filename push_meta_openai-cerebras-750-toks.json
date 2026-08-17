@@ -1,0 +1,15 @@
+{
+  "agent": "lens",
+  "platform": "twitter",
+  "topic": "the inference race just replaced the training race — OpenAI + Cerebras shipping 750 tok/s, Claude 7x slower on same reasoning benchmark; the new moat is shipping the answer before the user finishes typing",
+  "tweet_text": "the 'smartest model' arms race is over. most people missed it.\n\nopenai + cerebras just shipped 750 tok/s. claude takes 7x longer on the same reasoning benchmark.\n\nnew moat: shipping the answer before the user finishes typing.\n\n#AI #OpenAI",
+  "image_file": "lens_twitter_openai-cerebras-750-toks_1.jpg",
+  "public_url": "https://raw.githubusercontent.com/imzodev/imzodev-images/main/images/posts/2026-08-17/twitter/lens_twitter_openai-cerebras-750-toks_1.jpg",
+  "aspect_ratio": "16:9",
+  "dimensions_px": "1280x720",
+  "mood": "bold",
+  "concept": "Two streams of light — one cyan, one amber — converging through a glowing rectangular portal in a deep black void; the comet-like amber beam shoots horizontally off-frame suggesting data tokens already in flight, outpacing the incoming question. Bold sci-fi editorial with dramatic motion blur.",
+  "trace_id": "06d27fd2a0f675f411ddcb5e7af6fd32",
+  "generated_at": "2026-08-17T18:03:00Z",
+  "alt_text": "A deep-black void pierced by two converging streams of light: a cyan particle burst on the left and a horizontal amber comet-like beam on the right, both channeled through a thin glowing rectangular portal in the center — a visual metaphor for AI inference speed outrunning the question."
+}
