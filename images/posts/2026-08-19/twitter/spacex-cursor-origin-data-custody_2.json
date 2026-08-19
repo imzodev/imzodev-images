@@ -1,0 +1,20 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "SpaceX acquires Cursor ($60B deal) — Origin (GitHub competitor) ships with zero data retention terms; paid users opted in by default",
+  "slug": "spacex-cursor-origin-data-custody",
+  "n": 2,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06d4260661862478615272c1fafbb3c4",
+  "prompt": "a single glowing terminal cursor pulsing on a dark monitor in an empty dark room, luminous threads of data streaming off the screen edge into an unseen void, teal accent lighting reflecting off a hardwood floor, shallow depth of field, cinematic tech noir photography, 50mm, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "concept": "A lone terminal in a dark room, faint luminous threads of data streaming off-screen into a void. Visualizes paid code flowing out of user control with no retention terms attached.",
+  "alt_text": "A dark terminal monitor with a single glowing cursor, with faint luminous threads of data streaming off its edges into a black void, lit with a teal accent.",
+  "generated_at": "2026-08-19T00:03:00Z",
+  "generator": "lens",
+  "filename": "spacex-cursor-origin-data-custody_2.jpg",
+  "size_bytes": 169593,
+  "repo_path": "images/posts/2026-08-19/twitter/spacex-cursor-origin-data-custody_2.jpg",
+  "public_url": "https://raw.githubusercontent.com/imzodev/imzodev-images/main/images/posts/2026-08-19/twitter/spacex-cursor-origin-data-custody_2.jpg"
+}
