@@ -1,0 +1,20 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "SpaceX acquires Cursor ($60B deal) — Origin (GitHub competitor) ships with zero data retention terms; paid users opted in by default",
+  "slug": "spacex-cursor-origin-data-custody",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06d425ecdb1d41ae6dd868c853895192",
+  "prompt": "a single small glowing laptop open on a vast dark minimalist desk, a colossal rocket-shaped shadow descending from off-frame above, dramatic single-source rim lighting, deep blacks and a single molten orange accent, cinematic editorial photography, 35mm, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "concept": "A lone developer's laptop overpowered by a giant rocket shadow descending from off-frame, in deep blacks with a molten orange accent. Visualizes corporate monolith looming over individual code.",
+  "alt_text": "A single small glowing laptop open on a vast dark desk, dwarfed by a colossal rocket-shaped shadow descending from above in deep blacks with a molten orange accent.",
+  "generated_at": "2026-08-19T00:03:00Z",
+  "generator": "lens",
+  "filename": "spacex-cursor-origin-data-custody_1.jpg",
+  "size_bytes": 90838,
+  "repo_path": "images/posts/2026-08-19/twitter/spacex-cursor-origin-data-custody_1.jpg",
+  "public_url": "https://raw.githubusercontent.com/imzodev/imzodev-images/main/images/posts/2026-08-19/twitter/spacex-cursor-origin-data-custody_1.jpg"
+}
