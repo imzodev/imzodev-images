@@ -1,0 +1,18 @@
+{
+  "platform": "linkedin",
+  "purpose": "posts",
+  "topic": "Anthropic passes OpenAI in revenue ($65B vs $40B) by quietly eating the enterprise market while others chase chatbox demos",
+  "slug": "anthropic-vs-openai-65b-leverage",
+  "n": 1,
+  "mood": "professional",
+  "aspect_ratio": "3:4",
+  "model": "image-01",
+  "trace_id": "06d425b39a8e77554dd87499c8dfec72",
+  "prompt": "A single tall server rack glowing with warm amber status lights standing alone in a vast dark data center corridor, dramatic cinematic lighting from above, cool blue rim light on edges, deep black surroundings with subtle floor reflections, photorealistic editorial photography, moody professional atmosphere, 35mm lens, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A single tall server rack with warm amber status lights glowing alone in a vast dark data center corridor, conveying quiet enterprise infrastructure leverage.",
+  "generated_at": "2026-08-19T00:03:30Z",
+  "generator": "lens",
+  "filename": "anthropic-vs-openai-65b-leverage_1.jpg",
+  "size_bytes": 215826,
+  "repo_path": "images/posts/2026-08-19/linkedin/anthropic-vs-openai-65b-leverage_1.jpg"
+}
