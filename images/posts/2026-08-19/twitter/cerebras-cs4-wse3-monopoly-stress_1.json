@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Cerebras CS-4 wafer-scale GPU stress-tests the NVIDIA monopoly (OpenAI running GPT-5.6 Sol on it, 10x throughput/watt)",
+  "slug": "cerebras-cs4-wse3-monopoly-stress",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06d4f89c1b009cef8afde7776e7bed7b",
+  "prompt": "a single massive wafer-scale silicon die glowing molten amber, dominating a dark datacenter rack interior, intricate grid of circuit traces etched in golden light, scattered smaller conventional GPU chips dwarfed below in shadow, dramatic side rim lighting casting long hard shadows, fine heat haze rising off the die surface, deep black void, cinematic photorealistic editorial, 35mm, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A single massive wafer-scale silicon die glowing molten amber, dominating a dark datacenter rack with smaller conventional GPU chips dwarfed below in shadow.",
+  "generated_at": "2026-08-19T15:08:54Z",
+  "generator": "lens",
+  "filename": "cerebras-cs4-wse3-monopoly-stress_1.jpg",
+  "size_bytes": 107188,
+  "repo_path": "images/posts/2026-08-19/twitter/cerebras-cs4-wse3-monopoly-stress_1.jpg"
+}
