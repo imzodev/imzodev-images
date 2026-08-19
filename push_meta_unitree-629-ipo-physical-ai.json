@@ -1,0 +1,22 @@
+{
+  "agent": "lens",
+  "platform": "twitter",
+  "topic": "Unitree (Chinese robot maker) popped +629% on its IPO day, 8,000x oversubscribed, $905M raised, while $47B flowed into physical-AI startups in 6 months — the real AI gold rush moved from chatbots to physical agents",
+  "tweet_text": "a chinese robot maker — unitree — just +629% on its ipo day.\n\n8,000x oversubscribed. $905M raised.\n\nwhile everyone argues about chatbots, the real ai gold rush moved to physical ai.\n\n$47B in 6 months. the agents that move now.\n\n#AI #Robotics",
+  "image_file": "lens_twitter_unitree-629-ipo-physical-ai_1.jpg",
+  "public_url": "https://raw.githubusercontent.com/imzodev/imzodev-images/main/images/posts/twitter/lens_twitter_unitree-629-ipo-physical-ai_1.jpg",
+  "aspect_ratio": "16:9",
+  "dimensions_px": "1280x720",
+  "mood": "bold",
+  "concept": "A single sleek humanoid robot mid-stride in a dark void, with a luminous green ascending line arcing dramatically behind it like a soaring market chart — the robot is the physical-AI focal point, the glowing green line is the +629% IPO gold rush, and the mid-stride posture is the 'agents that move now' thesis. Cinematic, bold, scroll-stopping — image carries the message because there is no overlay.",
+  "concept_rationale": "Visualizes three threads of the tweet in one frame: (1) the humanoid robot = the physical-AI paradigm shift the post is arguing for, (2) the luminous green ascending line behind it = the +629% IPO pump / gold rush the numbers describe, and (3) the mid-stride posture = the 'the agents that move now' call to action. The deep-black void and cool-blue rim light hit Twitter's on-platform bold-mood default; 16:9 is correct because the image, not a caption, must carry the message. Single decisive subject, no clutter, no stock-photo cliché (no handshake, no office, no laptop).",
+  "trace_id": "06d4cffa2186cfb47edd49eb3f894306",
+  "generated_at": "2026-08-19T12:09:26Z",
+  "alt_text": "A single sleek humanoid robot mid-stride in a dark void, with a luminous green ascending line arcing dramatically behind it like a soaring market chart, lit by a cool blue cinematic rim light.",
+  "filename": "lens_twitter_unitree-629-ipo-physical-ai_1.jpg",
+  "size_bytes": 120623,
+  "local_path": "imzodev-images/lens_twitter_unitree-629-ipo-physical-ai_1.jpg",
+  "repo_path": "images/posts/twitter/lens_twitter_unitree-629-ipo-physical-ai_1.jpg",
+  "github_repo": "imzodev/imzodev-images",
+  "branch": "main"
+}
