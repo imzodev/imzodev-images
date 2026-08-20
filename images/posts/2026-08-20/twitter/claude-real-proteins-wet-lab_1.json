@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Claude designed 354 real proteins — bound, synthesized, validated in a wet lab. The line we crossed: stopped calling it AI for science.",
+  "slug": "claude-real-proteins-wet-lab",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06d57741578a8bcf923ea40081adcdf5",
+  "prompt": "a single luminous ribbon-diagram protein fold hovering above an open glass petri dish on a dark wet-lab bench, the protein glows cyan-violet casting soft reflections on the glass surface beneath, faint micro-droplets clinging to the structure, dark laboratory ambient, dramatic cinematic rim lighting, deep black backdrop with subtle vapor, editorial science photography, 35mm, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A single luminous ribbon-diagram protein fold glowing cyan-violet, hovering above an open glass petri dish on a dark wet-lab bench, a visual metaphor for an AI-designed structure crossing into physical lab reality.",
+  "generated_at": "2026-08-20T00:03:43Z",
+  "generator": "lens",
+  "filename": "claude-real-proteins-wet-lab_1.jpg",
+  "size_bytes": 258294,
+  "repo_path": "images/posts/2026-08-20/twitter/claude-real-proteins-wet-lab_1.jpg"
+}
