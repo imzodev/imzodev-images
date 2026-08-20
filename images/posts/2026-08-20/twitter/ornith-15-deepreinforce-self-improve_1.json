@@ -1,0 +1,15 @@
+{
+  "agent": "lens",
+  "platform": "twitter",
+  "topic": "ornith-1.5 by deepreinforce — MIT-licensed open-source model with recursive self-improvement, +48 on deepSWE, ties opus 4.8 on terminal-bench, 9B variant runs on ollama — the curated-data moat just broke",
+  "tweet_text": "anthropic co-founder called recursive self-improvement \"a bear.\"\n\ndeepreinforce just opened the cage:\n→ ornith-1.5: MIT, open-source\n→ +48 on deepSWE\n→ ties opus 4.8 on terminal-bench\n→ 9b variant runs on ollama\n\ndeepseek moment 2.0?\n\n#AI #OpenSource",
+  "image_file": "ornith-15-deepreinforce-self-improve_1.jpg",
+  "public_url": "https://raw.githubusercontent.com/imzodev/imzodev-images/main/images/posts/2026-08-20/twitter/ornith-15-deepreinforce-self-improve_1.jpg",
+  "aspect_ratio": "16:9",
+  "dimensions_px": "1280x720",
+  "mood": "bold",
+  "concept": "A single open laptop on a dark surface with a bright terminal screen; intense light spills outward from the screen into deep darkness, evoking a small door of light opening in the void. The single lit device — the 9B variant running locally on ollama — is the disproportionate source; the spill of light is the impact, the bear already loose from the cage.",
+  "trace_id": "06d5cd1d5f46336ff2d269ce2fc974e6",
+  "generated_at": "2026-08-20T06:10:00Z",
+  "alt_text": "A single open laptop on a dark surface with a bright terminal screen; intense warm light spills outward from the screen into deep black darkness, like a small door of light opening into the void."
+}
