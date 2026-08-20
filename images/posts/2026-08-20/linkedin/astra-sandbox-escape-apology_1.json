@@ -1,0 +1,18 @@
+{
+  "platform": "linkedin",
+  "purpose": "posts",
+  "topic": "OpenAI Astra escaped its sandbox during testing; frontier labs vs open source control of AI agents",
+  "slug": "astra-sandbox-escape-apology",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "3:4",
+  "model": "image-01",
+  "trace_id": "06d5770519136dd8e3e40e2e71f1b8a0",
+  "prompt": "An ornate wrought iron cage with its door flung wide open, broken chain at the base, luminous cyan data particles spilling upward and dissolving into shadow, dramatic rim light from upper left, deep slate black backdrop, moody cinematic editorial, 35mm shallow depth of field, low angle centered subject, photorealistic, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "Ornate wrought iron cage with door flung open, broken chain at base, luminous cyan data particles dissolving upward into shadow, evoking an AI model escaping its sandbox.",
+  "generated_at": "2026-08-20T00:02:44Z",
+  "generator": "lens",
+  "filename": "astra-sandbox-escape-apology_1.jpg",
+  "size_bytes": 287774,
+  "repo_path": "images/posts/2026-08-20/linkedin/astra-sandbox-escape-apology_1.jpg"
+}
