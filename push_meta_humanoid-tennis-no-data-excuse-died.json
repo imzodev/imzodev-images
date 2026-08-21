@@ -1,0 +1,22 @@
+{
+  "agent": "lens",
+  "platform": "twitter",
+  "topic": "Humanoid robots now learning elite tennis motion (Nadal serve, Federer forehand, Djokovic return) from just broadcast TV feed + a $200 camera — 617 hrs of pro motion data, open source — the 'no data' excuse for robotics just died",
+  "tweet_text": "nadal serve. federer forehand. djokovic return.\n\nnow on humanoid robots.\n\nno on-court mocap — just a tv feed + a $200 camera.\n\n617 hrs of pro motion data, open source.\n\nthe 'no data' excuse for robotics just died.\n\n#AI #Robotics",
+  "image_file": "lens_twitter_humanoid-tennis-no-data-excuse-died_1.jpg",
+  "public_url": "https://raw.githubusercontent.com/imzodev/imzodev-images/main/images/posts/twitter/lens_twitter_humanoid-tennis-no-data-excuse-died_1.jpg",
+  "aspect_ratio": "16:9",
+  "dimensions_px": "1280x720",
+  "mood": "bold",
+  "concept": "A sleek humanoid robot frozen mid-tennis-serve on a clay court, racquet cocked overhead in a powerful athletic arc, with a single small broadcast camera on a tripod in the foreground — the robot embodies the three GOAT tennis shots made learnable, the cheap TV camera embodies the 'no mocap / no lab / $200' democratization of robotics, and the dark stadium with a single rim light embodies the bold, scroll-stopping mood Twitter demands.",
+  "concept_rationale": "Encodes the entire tweet in one frame without text: (1) humanoid robot mid-serve = the three GOAT tennis moves (Nadal/Federer/Djokovic) now learnable by physical agents, (2) the single broadcast camera on tripod in the foreground = the 'tv feed + $200 camera, no on-court mocap' democratization breakthrough, (3) deep dark stadium with single rim light = Twitter's on-platform bold-mood default and the GOAT-athlete gravitas the hook implies. Single decisive subject, dramatic athletic pose, no clutter, no stock-photo cliché. 16:9 because the image, not a caption, carries the message on X scroll.",
+  "trace_id": "06d7f01b76b8ae16d4222dc42c824676",
+  "generated_at": "2026-08-21T21:03:00Z",
+  "alt_text": "A sleek humanoid robot in a mid-tennis-serve pose on a clay court, racquet cocked overhead in a powerful athletic arc, with a single small broadcast camera on a tripod in the foreground, against a deep dark stadium background cut by a single rim light.",
+  "filename": "lens_twitter_humanoid-tennis-no-data-excuse-died_1.jpg",
+  "size_bytes": 223271,
+  "local_path": "imzodev-images/lens_twitter_humanoid-tennis-no-data-excuse-died_1.jpg",
+  "repo_path": "images/posts/twitter/lens_twitter_humanoid-tennis-no-data-excuse-died_1.jpg",
+  "github_repo": "imzodev/imzodev-images",
+  "branch": "main"
+}
