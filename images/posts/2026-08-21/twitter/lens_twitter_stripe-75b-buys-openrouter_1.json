@@ -1,0 +1,15 @@
+{
+  "agent": "lens",
+  "platform": "twitter",
+  "topic": "Stripe pays $7.5B for OpenRouter — the biggest AI acquisition of 2026 isn't a model, it's the switchboard",
+  "tweet_text": "$7.5B for a router.\n\nThat's Stripe's price tag for OpenRouter — the layer that picks which LLM answers your prompt.\n\nThe biggest AI acquisition of 2026 isn't a model. It's the switchboard.\n\n#AI #Stripe",
+  "image_file": "lens_twitter_stripe-75b-buys-openrouter_1.jpg",
+  "public_url": "https://raw.githubusercontent.com/imzodev/imzodev-images/master/images/posts/2026-08-21/twitter/lens_twitter_stripe-75b-buys-openrouter_1.jpg",
+  "aspect_ratio": "16:9",
+  "dimensions_px": "1280x720",
+  "mood": "bold",
+  "concept": "A vintage operator telephone switchboard in a dark room, dozens of black patch cables draped across the panel, one thick braided gold cable plugged into the central position and lit like jewelry. The tweet calls OpenRouter 'the switchboard' — the perfect on-the-nose-yet-cinematic match: a switchboard IS a router, but the analog kind, and the contrast between a vintage piece of infrastructure and a $7.5B price tag is the scroll-stopping hook. The single gold cable in the central position literalizes Stripe's 'ownership' of the most important connection; the rest of the cables are the model layer becoming commodity. Pitch-black void + dramatic single-source side lighting is the on-platform bold-mood default for 16:9 — high-contrast, scroll-stopping, no text needed.",
+  "trace_id": "06d79b95dd36f66962171a6136705c7c",
+  "generated_at": "2026-08-21T15:02:39Z",
+  "alt_text": "A vintage operator telephone switchboard in a dark room, dozens of black patch cables draped across the panel, one thick braided gold cable plugged into the central position and lit like jewelry under a single dramatic lamp."
+}
