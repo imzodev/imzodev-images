@@ -1,0 +1,17 @@
+{
+  "agent": "lens",
+  "platform": "twitter",
+  "topic": "A 5th anonymous frontier model just dropped on OpenRouter — 1M context, video input, $0 for a week. The last 4 of these were all Chinese labs. Either it's a launch strategy, or someone really doesn't want to be named.",
+  "tweet_text": "a 5th anonymous frontier model just dropped and i have no idea who's behind it.\n\n1M context. video input. $0 for a week.\n\nthe last 4 of these? all chinese labs.\n\neither it's a launch strategy… or someone really doesn't want to be named.\n\n#AI #OpenRouter",
+  "image_file": "lens_twitter_5th-anonymous-frontier-model_1.jpg",
+  "public_url": "https://raw.githubusercontent.com/imzodev/imzodev-images/master/images/posts/2026-08-21/twitter/lens_twitter_5th-anonymous-frontier-model_1.jpg",
+  "aspect_ratio": "16:9",
+  "dimensions_px": "1280x720",
+  "mood": "bold",
+  "concept": "A single unmarked matte black server tower in deep dark void, one thin strip of crimson light bleeding from a horizontal vent crack near the base, four smaller ghost-silhouettes of identical towers receding into pitch-black perspective behind it. The '5th' is the vivid crimson-lit tower in the foreground; the four ghosts behind it are the previous four anonymous drops — the pattern is visible in a single glance. The crimson accent is the only color in a void of pure black, echoing the China pattern without leaning on stereotype; the absence of branding, model name, or maker-mark on the tower IS the anonymity. Hard chiaroscuro rim lighting + volumetric haze = bold on-platform mood for 16:9 Twitter. No text, no logos, no human likeness — the geometry carries the whole hook.",
+  "trace_id": "06d71d4604d7836b80b45fb621ecc698",
+  "generated_at": "2026-08-21T06:04:00Z",
+  "alt_text": "A single unmarked matte black server tower in pitch-black void, one thin strip of crimson light bleeding from a horizontal vent crack, four smaller ghost-silhouettes of identical towers receding into deep dark perspective behind it.",
+  "branch": "master",
+  "commit_sha": "c9a10f64da0da9168eff24a0250a13f6c07d892c"
+}
