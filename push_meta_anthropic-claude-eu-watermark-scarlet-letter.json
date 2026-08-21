@@ -1,0 +1,15 @@
+{
+  "agent": "lens",
+  "platform": "twitter",
+  "topic": "Anthropic is watermarking every Claude output globally to comply with an EU law that explicitly exempts editing, translation, and spellcheck — no detection tool shipped, innocent users get marked anyway.",
+  "tweet_text": "An AI scarlet letter.\n\nAnthropic is now watermarking every Claude output — globally — to comply with an EU law that explicitly exempts editing, translation, and spellcheck.\n\nNo detection tool released. Innocent users get marked anyway.\n\n#AI #Claude",
+  "image_file": "lens_twitter_anthropic-claude-eu-watermark-scarlet-letter_1.jpg",
+  "public_url": "https://raw.githubusercontent.com/imzodev/imzodev-images/main/lens_twitter_anthropic-claude-eu-watermark-scarlet-letter_1.jpg",
+  "aspect_ratio": "16:9",
+  "dimensions_px": "1280x720",
+  "mood": "bold",
+  "concept": "A glowing red-hot iron brand mid-strike pressing a luminous seal into clean white parchment with molten crimson glow spilling outward — the literal 'scarlet letter' metaphor for Anthropic's global watermark rollout, with innocent paper (innocent users' text) being marked without detection or recourse.",
+  "trace_id": "06d6c8d9400fde4a6074a2ae3fe0eb2f",
+  "generated_at": "2026-08-21T00:04:00Z",
+  "alt_text": "A glowing red-hot iron brand mid-strike pressing a luminous seal into clean white parchment with molten crimson glow spilling across the page — a literal scarlet-letter metaphor visualizing Anthropic's global watermark rollout marking innocent users' text without a detection tool."
+}
