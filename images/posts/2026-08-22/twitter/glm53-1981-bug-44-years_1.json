@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "GLM-5.3 surfaced a bug from 1981 hiding in open source — 44 years undetected, 2,436 vulns across 269 projects, avg age 26.6 years, post-training only, beats Opus 4.8",
+  "slug": "glm53-1981-bug-44-years",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06d8446b3f5e84390ca866b8d78bdba2",
+  "prompt": "a single curling vintage paper computer tape from 1981 floating in dark void, dramatic backlight highlighting worn perforations along its edge, one bright glowing red flaw indicator pulsing on the tape surface, cinematic macro photography, photorealistic editorial, deep black backdrop, moody studio rim lighting, 35mm, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A single curling vintage paper computer tape from 1981 floating in pitch-black void with worn perforations lit by dramatic backlight, one bright glowing red flaw indicator pulsing on its surface — a visual metaphor for a 44-year-old bug finally surfaced in open-source code.",
+  "generated_at": "2026-08-22T03:06:42Z",
+  "generator": "lens",
+  "filename": "glm53-1981-bug-44-years_1.jpg",
+  "size_bytes": 91387,
+  "repo_path": "images/posts/2026-08-22/twitter/glm53-1981-bug-44-years_1.jpg"
+}
