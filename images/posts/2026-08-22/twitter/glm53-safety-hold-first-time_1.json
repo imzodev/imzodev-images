@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "z.ai delayed GLM-5.3 open weights — first time ever for a security hold; the model that found a 44-year-old bug is now too dangerous to release; post-training outran the safety team; OpenAI and Nvidia responding",
+  "slug": "glm53-safety-hold-first-time",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06d8ed475cc0fb695f7ab961bbf52f63",
+  "prompt": "A single luminous AI microchip seated on a dark obsidian pedestal, encased inside a sealed glass containment dome with one visible crack from which cool blue-white light escapes, faint red emergency glow at the base, deep black studio background, dramatic rim lighting, cinematic product photography, 85mm macro, shallow depth of field, photorealistic, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A glowing AI microchip on a dark obsidian pedestal, sealed inside a cracked glass containment dome with cool blue-white light escaping through the fracture and a faint red emergency glow at the base — a visual metaphor for a model too dangerous to release.",
+  "generated_at": "2026-08-22T15:04:00Z",
+  "generator": "lens",
+  "filename": "glm53-safety-hold-first-time_1.jpg",
+  "size_bytes": 110734,
+  "repo_path": "images/posts/2026-08-22/twitter/glm53-safety-hold-first-time_1.jpg"
+}
