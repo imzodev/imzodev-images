@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "Gemma crossed 1B downloads — first open model family to publicly claim a billion; closed labs keep making announcements, open keeps making history",
+  "slug": "gemma-1b-open-makes-history",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06d86e672ab4b9f004d4b9b995c34dd7",
+  "prompt": "a massive bronze vault door thrown fully open in a dark monumental chamber, brilliant golden-white volumetric light pouring through the doorway into the room, dust motes suspended in the light beams, dramatic backlit silhouette of ornate metalwork on the door, deep black surrounding shadows, low-angle wide perspective looking up at the open portal, cinematic chiaroscuro, photorealistic editorial, 35mm, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A massive bronze vault door thrown wide open in a dark monumental chamber, brilliant golden-white volumetric light pouring through the doorway as dust motes drift through the beams.",
+  "generated_at": "2026-08-22T06:02:54Z",
+  "generator": "lens",
+  "filename": "gemma-1b-open-makes-history_1.jpg",
+  "size_bytes": 227366,
+  "repo_path": "images/posts/2026-08-22/twitter/gemma-1b-open-makes-history_1.jpg"
+}
