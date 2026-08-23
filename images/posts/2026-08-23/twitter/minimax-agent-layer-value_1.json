@@ -1,0 +1,18 @@
+{
+  "platform": "twitter",
+  "purpose": "posts",
+  "topic": "MiniMax stock +12% on free HuggingFace model — JPM hikes target 62.5% — the agent layer eats the value",
+  "slug": "minimax-agent-layer-value",
+  "n": 1,
+  "mood": "bold",
+  "aspect_ratio": "16:9",
+  "model": "image-01",
+  "trace_id": "06d96c1094c30c1239e7b713ee33a704",
+  "prompt": "A luminous crown-shaped network of interconnected glowing circuit nodes and gold connector pins floating above a horizontal stack of identical dim gray mass-produced silicon chips, vertical beams of cyan and amber energy streaming upward from the base chips into the crown, deep black void background, dramatic low-key cinematic lighting with strong rim light on the crown, financial-tech editorial photography, 35mm, shallow depth of field, no text, no words, no letters, no numbers, no logos, no watermarks",
+  "alt_text": "A luminous crown of glowing gold circuit nodes floats above a stack of dim identical gray chips, with cyan and amber energy beams rising from the base into the crown — visualizing value migrating from commoditized model layer to the agent harness above.",
+  "generated_at": "2026-08-23T00:05:05Z",
+  "generator": "lens",
+  "filename": "minimax-agent-layer-value_1.jpg",
+  "size_bytes": 220469,
+  "repo_path": "images/posts/2026-08-23/twitter/minimax-agent-layer-value_1.jpg"
+}
